@@ -1,0 +1,1955 @@
+[
+  {
+    "sku_id": "uniqlo-u0000000052114-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL12.jpg",
+    "color_label": "PINK",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL14.jpg",
+    "color_label": "RED",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL17.jpg",
+    "color_label": "RED",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL53.jpg",
+    "color_label": "GREEN",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "L",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL54.jpg",
+    "color_label": "GREEN",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL56.jpg",
+    "color_label": "OLIVE",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-LIGHT BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL60.jpg",
+    "color_label": "LIGHT BLUE",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL65.jpg",
+    "color_label": "BLUE",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL67.jpg",
+    "color_label": "BLUE",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-LIGHT PURP",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL70.jpg",
+    "color_label": "LIGHT PURP",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052114-PURPLE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052114",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114",
+    "category": "knits",
+    "product_name": "女裝 喀什米爾圓領毛衣(長袖) 479160",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/sku/561/COL74.jpg",
+    "color_label": "PURPLE",
+    "original_price": 2990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052846-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052846",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052846",
+    "category": "knits",
+    "product_name": "女裝/男女適穿 柔滑棉圓領針織衫(長袖) 481673 482970",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052846/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052846-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052846",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052846",
+    "category": "knits",
+    "product_name": "女裝/男女適穿 柔滑棉圓領針織衫(長袖) 481673 482970",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052846/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052846-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052846",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052846",
+    "category": "knits",
+    "product_name": "女裝/男女適穿 柔滑棉圓領針織衫(長袖) 481673 482970",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052846/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052846-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052846",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052846",
+    "category": "knits",
+    "product_name": "女裝/男女適穿 柔滑棉圓領針織衫(長袖) 481673 482970",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052846/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052846-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052846",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052846",
+    "category": "knits",
+    "product_name": "女裝/男女適穿 柔滑棉圓領針織衫(長袖) 481673 482970",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052846/sku/561/COL14.jpg",
+    "color_label": "RED",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052846-LIGHT GREE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052846",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052846",
+    "category": "knits",
+    "product_name": "女裝/男女適穿 柔滑棉圓領針織衫(長袖) 481673 482970",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052846/sku/561/COL50.jpg",
+    "color_label": "LIGHT GREE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052846-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052846",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052846",
+    "category": "knits",
+    "product_name": "女裝/男女適穿 柔滑棉圓領針織衫(長袖) 481673 482970",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052846/sku/561/COL67.jpg",
+    "color_label": "BLUE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052332-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052332",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052332",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚中高領針織衫(長袖) 479158",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052332/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052332-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052332",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052332",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚中高領針織衫(長袖) 479158",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052332/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052332-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052332",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052332",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚中高領針織衫(長袖) 479158",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052332/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052332-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052332",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052332",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚中高領針織衫(長袖) 479158",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052332/sku/561/COL32.jpg",
+    "color_label": "BEIGE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052332-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052332",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052332",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚中高領針織衫(長袖) 479158",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052332/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052332-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052332",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052332",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚中高領針織衫(長袖) 479158",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052332/sku/561/COL68.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052113-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052113",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052113",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚圓領針織衫(長袖) 479157",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052113/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052113-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052113",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052113",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚圓領針織衫(長袖) 479157",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052113/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052113-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052113",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052113",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚圓領針織衫(長袖) 479157",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052113/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052113-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052113",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052113",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚圓領針織衫(長袖) 479157",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052113/sku/561/COL19.jpg",
+    "color_label": "WINE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052113-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052113",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052113",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚圓領針織衫(長袖) 479157",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052113/sku/561/COL57.jpg",
+    "color_label": "OLIVE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052113-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052113",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052113",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚圓領針織衫(長袖) 479157",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052113/sku/561/COL62.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052113-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052113",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052113",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚圓領針織衫(長袖) 479157",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052113/sku/561/COL68.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052113-PURPLE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052113",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052113",
+    "category": "knits",
+    "product_name": "女裝 柔軟舒膚圓領針織衫(長袖) 479157",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052113/sku/561/COL72.jpg",
+    "color_label": "PURPLE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052954-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052954",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052954",
+    "category": "knits",
+    "product_name": "女裝 可機洗羅紋POLO針織衫(長袖) 480414 482253",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052954/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052954-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052954",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052954",
+    "category": "knits",
+    "product_name": "女裝 可機洗羅紋POLO針織衫(長袖) 480414 482253",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052954/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052844-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052844",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052844",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉POLO針織衫(長袖) 482971",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052844/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052844-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052844",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052844",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉POLO針織衫(長袖) 482971",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052844/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052844-YELLOW",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052844",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052844",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉POLO針織衫(長袖) 482971",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052844/sku/561/COL41.jpg",
+    "color_label": "YELLOW",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052099-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052099",
+    "category": "knits",
+    "product_name": "女裝 美麗諾圓領毛衣(長袖) 478330",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052099/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052099-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052099",
+    "category": "knits",
+    "product_name": "女裝 美麗諾圓領毛衣(長袖) 478330",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052099/sku/561/COL05.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052099-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052099",
+    "category": "knits",
+    "product_name": "女裝 美麗諾圓領毛衣(長袖) 478330",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052099/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052099-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052099",
+    "category": "knits",
+    "product_name": "女裝 美麗諾圓領毛衣(長袖) 478330",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052099/sku/561/COL16.jpg",
+    "color_label": "RED",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052099-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052099",
+    "category": "knits",
+    "product_name": "女裝 美麗諾圓領毛衣(長袖) 478330",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052099/sku/561/COL36.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052099-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052099",
+    "category": "knits",
+    "product_name": "女裝 美麗諾圓領毛衣(長袖) 478330",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052099/sku/561/COL54.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052099-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052099",
+    "category": "knits",
+    "product_name": "女裝 美麗諾圓領毛衣(長袖) 478330",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052099/sku/561/COL65.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052099-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052099",
+    "category": "knits",
+    "product_name": "女裝 美麗諾圓領毛衣(長袖) 478330",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052099/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052745-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052745",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052745",
+    "category": "knits",
+    "product_name": "女裝 編織圓領針織衫(長袖) 482969",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052745/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052745-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052745",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052745",
+    "category": "knits",
+    "product_name": "女裝 編織圓領針織衫(長袖) 482969",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052745/sku/561/COL04.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052745-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052745",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052745",
+    "category": "knits",
+    "product_name": "女裝 編織圓領針織衫(長袖) 482969",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052745/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052745-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052745",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052745",
+    "category": "knits",
+    "product_name": "女裝 編織圓領針織衫(長袖) 482969",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052745/sku/561/COL62.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052745-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052745",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052745",
+    "category": "knits",
+    "product_name": "女裝 編織圓領針織衫(長袖) 482969",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052745/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052636-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052636",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052636",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉POLO針織衫(長袖) 481595",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052636/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 1290,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052636-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052636",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052636",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉POLO針織衫(長袖) 481595",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052636/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 1290,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052636-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052636",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052636",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉POLO針織衫(長袖) 481595",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052636/sku/561/COL13.jpg",
+    "color_label": "RED",
+    "original_price": 1290,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052845-LIGHT BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052845",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052845",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉條紋POLO針織衫(長袖) 484503",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052845/sku/561/COL60.jpg",
+    "color_label": "LIGHT BLUE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052845-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052845",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052845",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉條紋POLO針織衫(長袖) 484503",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052845/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053352-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053352",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053352",
+    "category": "knits",
+    "product_name": "女裝 可機洗羅紋POLO針織衫(長袖) 480414",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053352/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053352-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053352",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053352",
+    "category": "knits",
+    "product_name": "女裝 可機洗羅紋POLO針織衫(長袖) 480414",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053352/sku/561/COL19.jpg",
+    "color_label": "WINE",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053352-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053352",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053352",
+    "category": "knits",
+    "product_name": "女裝 可機洗羅紋POLO針織衫(長袖) 480414",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053352/sku/561/COL35.jpg",
+    "color_label": "BROWN",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053044-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053044",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053044",
+    "category": "knits",
+    "product_name": "女裝 可機洗羅紋POLO針織衫(長袖)(條紋) 483919",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053044/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053044-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053044",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053044",
+    "category": "knits",
+    "product_name": "女裝 可機洗羅紋POLO針織衫(長袖)(條紋) 483919",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053044/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053003-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053003",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053003",
+    "category": "knits",
+    "product_name": "女裝 3D織法棉質圓領針織衫(長袖) 482974",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053003/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053003-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053003",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053003",
+    "category": "knits",
+    "product_name": "女裝 3D織法棉質圓領針織衫(長袖) 482974",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053003/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053003-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053003",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053003",
+    "category": "knits",
+    "product_name": "女裝 3D織法棉質圓領針織衫(長袖) 482974",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053003/sku/561/COL15.jpg",
+    "color_label": "RED",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053003-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053003",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053003",
+    "category": "knits",
+    "product_name": "女裝 3D織法棉質圓領針織衫(長袖) 482974",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053003/sku/561/COL59.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052634-CREAM",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052634",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052634",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉條紋POLO針織衫(長袖) 481596",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052634/sku/561/COL40.jpg",
+    "color_label": "CREAM",
+    "original_price": 1290,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052634-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052634",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052634",
+    "category": "knits",
+    "product_name": "女裝 柔滑棉條紋POLO針織衫(長袖) 481596",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052634/sku/561/COL68.jpg",
+    "color_label": "BLUE",
+    "original_price": 1290,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052996-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052996",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052996",
+    "category": "knits",
+    "product_name": "女裝 3D織法條紋棉質圓領針織衫(長袖) 484504",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052996/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052996-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052996",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052996",
+    "category": "knits",
+    "product_name": "女裝 3D織法條紋棉質圓領針織衫(長袖) 484504",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052996/sku/561/COL37.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052996-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052996",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052996",
+    "category": "knits",
+    "product_name": "女裝 3D織法條紋棉質圓領針織衫(長袖) 484504",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052996/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  }
+]

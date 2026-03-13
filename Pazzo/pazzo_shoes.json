@@ -1,0 +1,258 @@
+[
+  {
+    "sku_id": "PAZZO-23966-銀色",
+    "brand": "PAZZO",
+    "parent_id": "23966",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/23966",
+    "category": "shoes",
+    "product_name": "PUMA Speedcat Metallic 運動鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/4c869ba0-db31-473e-b4eb-d86b023360fa.jpg",
+    "color_label": "銀色",
+    "original_price": 3280,
+    "current_price": 3280,
+    "full_size_list": [
+      "22.5",
+      "23",
+      "23.5",
+      "24",
+      "24.5",
+      "25",
+      "25.5"
+    ],
+    "available_list": [
+      "22.5",
+      "23",
+      "23.5",
+      "24",
+      "24.5",
+      "25",
+      "25.5"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-22902-黑",
+    "brand": "PAZZO",
+    "parent_id": "22902",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/22902",
+    "category": "shoes",
+    "product_name": "adidas TAEKWONDO 跆拳道薄底鞋 (PAZZO限定組合)",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/cd508f5f-e0d3-4ea4-9190-d589cc6f5d97.jpg",
+    "color_label": "黑",
+    "original_price": 3800,
+    "current_price": 3800,
+    "full_size_list": [
+      "23",
+      "23.5"
+    ],
+    "available_list": [
+      "23",
+      "23.5"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-22326-奶白",
+    "brand": "PAZZO",
+    "parent_id": "22326",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/22326",
+    "category": "shoes",
+    "product_name": "圓頭釦帶瑪莉珍鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/a8216196-7ba9-4418-9efc-a5431068e313.jpg",
+    "color_label": "奶白",
+    "original_price": 1990,
+    "current_price": 1490,
+    "full_size_list": [
+      "38",
+      "39",
+      "40"
+    ],
+    "available_list": [
+      "38",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-22326-黑",
+    "brand": "PAZZO",
+    "parent_id": "22326",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/22326",
+    "category": "shoes",
+    "product_name": "圓頭釦帶瑪莉珍鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/9321759e-b732-458f-ba58-a1325b7553c1.jpg",
+    "color_label": "黑",
+    "original_price": 1990,
+    "current_price": 1490,
+    "full_size_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "available_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-22328-黑",
+    "brand": "PAZZO",
+    "parent_id": "22328",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/22328",
+    "category": "shoes",
+    "product_name": "蝴蝶結尖頭平底娃娃鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/41673c65-19c8-4912-abc6-d18f58efca2b.jpg",
+    "color_label": "黑",
+    "original_price": 1890,
+    "current_price": 1490,
+    "full_size_list": [
+      "37",
+      "39",
+      "40"
+    ],
+    "available_list": [
+      "37",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-22328-紅",
+    "brand": "PAZZO",
+    "parent_id": "22328",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/22328",
+    "category": "shoes",
+    "product_name": "蝴蝶結尖頭平底娃娃鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/2f5e5849-c206-4df3-bf28-eafb67f95624.jpg",
+    "color_label": "紅",
+    "original_price": 1890,
+    "current_price": 1490,
+    "full_size_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "available_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-22328-銀",
+    "brand": "PAZZO",
+    "parent_id": "22328",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/22328",
+    "category": "shoes",
+    "product_name": "蝴蝶結尖頭平底娃娃鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/1c1e746e-bd83-425e-b1c8-9656ee2ce6f5.jpg",
+    "color_label": "銀",
+    "original_price": 1890,
+    "current_price": 1490,
+    "full_size_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "available_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-22329-杏",
+    "brand": "PAZZO",
+    "parent_id": "22329",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/22329",
+    "category": "shoes",
+    "product_name": "圓頭拼接蝴蝶結芭蕾舞鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/8466b44a-dc49-4fc5-a363-c3e77a406ad5.jpg",
+    "color_label": "杏",
+    "original_price": 1890,
+    "current_price": 1490,
+    "full_size_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "available_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-22329-黑",
+    "brand": "PAZZO",
+    "parent_id": "22329",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/22329",
+    "category": "shoes",
+    "product_name": "圓頭拼接蝴蝶結芭蕾舞鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/89f7768a-4303-408d-a7c0-9a000b6f2ea7.jpg",
+    "color_label": "黑",
+    "original_price": 1890,
+    "current_price": 1490,
+    "full_size_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "available_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-22329-銀",
+    "brand": "PAZZO",
+    "parent_id": "22329",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/22329",
+    "category": "shoes",
+    "product_name": "圓頭拼接蝴蝶結芭蕾舞鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/b899f536-9498-4b69-9dd0-d86f547aca95.jpg",
+    "color_label": "銀",
+    "original_price": 1890,
+    "current_price": 1490,
+    "full_size_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "available_list": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "sku_id": "PAZZO-21164-白綠",
+    "brand": "PAZZO",
+    "parent_id": "21164",
+    "sku_url": "https://www.pazzo.com.tw/zh-tw/market/n/21164",
+    "category": "shoes",
+    "product_name": "NEW BALANCE 530休閒拖鞋",
+    "img_path": "https://pics.pzcdn.tw/pazzo/ProductBasics/332d32bb-ba42-4172-9e4c-ab4d07c16ee3.jpg",
+    "color_label": "白綠",
+    "original_price": 1080,
+    "current_price": 972,
+    "full_size_list": [
+      "26"
+    ],
+    "available_list": [
+      "26"
+    ]
+  }
+]

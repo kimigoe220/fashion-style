@@ -1,0 +1,2223 @@
+{
+  "64438": {
+    "error": "商品已下架"
+  },
+  "644400410": [
+    {
+      "size": "S",
+      "shoulder_cm": 32,
+      "chest_width_cm": 91.5,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 32,
+      "raw": "S 32 91.5 32.5 32 39.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34,
+      "chest_width_cm": 93.9,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 33,
+      "raw": "M 34 93.9 34 33 40.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37,
+      "chest_width_cm": 96.5,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 35,
+      "raw": "L 37 96.5 35.5 35 41.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 60,
+      "sleeve_length_cm": 37.5,
+      "garment_length_cm": 36.5,
+      "raw": "XL 40 60 37.5 36.5 42.5"
+    }
+  ],
+  "663790110": {
+    "error": "商品已下架"
+  },
+  "67079": {
+    "error": "商品已下架"
+  },
+  "672250210": {
+    "error": "商品已下架"
+  },
+  "682980610": {
+    "error": "商品已下架"
+  },
+  "683120310": [],
+  "683750110": [
+    {
+      "size": "S",
+      "shoulder_cm": 34,
+      "chest_width_cm": 99.9,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 32,
+      "raw": "S 34 99.9 33.5 32 36"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36,
+      "chest_width_cm": 97.5,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 33.5,
+      "raw": "M 36 97.5 35 33.5 37"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38,
+      "chest_width_cm": 60.5,
+      "sleeve_length_cm": 36.5,
+      "garment_length_cm": 35,
+      "raw": "L 38 60.5 36.5 35 38"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 64,
+      "sleeve_length_cm": 38,
+      "garment_length_cm": 36.5,
+      "raw": "XL 40 64 38 36.5 39"
+    }
+  ],
+  "683800310": [
+    {
+      "size": "S",
+      "shoulder_cm": 34,
+      "chest_width_cm": 51,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 23,
+      "raw": "S 34 51 31.5 23 97"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36,
+      "chest_width_cm": 54,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 24,
+      "raw": "M 36 54 33 24 98"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38,
+      "chest_width_cm": 57,
+      "sleeve_length_cm": 34.5,
+      "garment_length_cm": 25,
+      "raw": "L 38 57 34.5 25 99"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 60,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 26,
+      "raw": "XL 40 60 36 26 100"
+    }
+  ],
+  "683810210": {
+    "error": "商品已下架"
+  },
+  "684880410": [],
+  "68613": {
+    "error": "商品已下架"
+  },
+  "686140410": [
+    {
+      "size": "S",
+      "shoulder_cm": 32.5,
+      "chest_width_cm": 41,
+      "sleeve_length_cm": 25,
+      "garment_length_cm": 11.5,
+      "raw": "S 32.5 41 25 11.5 93.7"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 43,
+      "sleeve_length_cm": 26,
+      "garment_length_cm": 12.5,
+      "raw": "M 34.5 43 26 12.5 94.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37,
+      "chest_width_cm": 46,
+      "sleeve_length_cm": 27.5,
+      "garment_length_cm": 13,
+      "raw": "L 37 46 27.5 13 96.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 39.5,
+      "chest_width_cm": 48.5,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 13.5,
+      "raw": "XL 39.5 48.5 29 13.5 97.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 31,
+      "sleeve_length_cm": 31,
+      "garment_length_cm": 14,
+      "raw": "XXL 42 31 31 14 98.5"
+    }
+  ],
+  "686150110": [],
+  "686160110": [],
+  "686170310": [],
+  "686210310": [],
+  "686220310": [],
+  "686260210": [
+    {
+      "size": "S",
+      "shoulder_cm": 32.5,
+      "chest_width_cm": 48,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 26,
+      "raw": "S 32.5 48 29 26 102"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35.5,
+      "chest_width_cm": 90.5,
+      "sleeve_length_cm": 30.5,
+      "garment_length_cm": 27,
+      "raw": "M 35.5 90.5 30.5 27 102.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38.5,
+      "chest_width_cm": 53,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 28,
+      "raw": "L 38.5 53 32 28 103.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 41.5,
+      "chest_width_cm": 99.9,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 29,
+      "raw": "XL 41.5 99.9 34 29 104.5"
+    }
+  ],
+  "68627": [
+    {
+      "size": "S",
+      "shoulder_cm": 31,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 26,
+      "raw": "S 31 49 29 26 99.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33.5,
+      "chest_width_cm": 91.5,
+      "sleeve_length_cm": 30.2,
+      "garment_length_cm": 26.5,
+      "raw": "M 33.5 91.5 30.2 26.5 100"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36,
+      "chest_width_cm": 94.5,
+      "sleeve_length_cm": 31.7,
+      "garment_length_cm": 27,
+      "raw": "L 36 94.5 31.7 27 101"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 39,
+      "chest_width_cm": 97.5,
+      "sleeve_length_cm": 33.2,
+      "garment_length_cm": 28,
+      "raw": "XL 39 97.5 33.2 28 102"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 60.5,
+      "sleeve_length_cm": 34.7,
+      "garment_length_cm": 29,
+      "raw": "XXL 42 60.5 34.7 29 103"
+    }
+  ],
+  "68628": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 46.5,
+      "sleeve_length_cm": 27.8,
+      "garment_length_cm": 20.5,
+      "raw": "S 33 46.5 27.8 20.5 101"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35.5,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 21.5,
+      "raw": "M 35.5 49 29 21.5 102"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38,
+      "chest_width_cm": 91.5,
+      "sleeve_length_cm": 30.2,
+      "garment_length_cm": 22.5,
+      "raw": "L 38 91.5 30.2 22.5 103"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 41.5,
+      "chest_width_cm": 99,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 23.5,
+      "raw": "XL 41.5 99 32 23.5 104"
+    }
+  ],
+  "686290210": [
+    {
+      "size": "S",
+      "shoulder_cm": 34.7,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 29.5,
+      "garment_length_cm": 21.5,
+      "raw": "S 34.7 49 29.5 21.5 103"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 37.3,
+      "chest_width_cm": 91.5,
+      "sleeve_length_cm": 31,
+      "garment_length_cm": 22.5,
+      "raw": "M 37.3 91.5 31 22.5 104"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 40.2,
+      "chest_width_cm": 94.5,
+      "sleeve_length_cm": 32.2,
+      "garment_length_cm": 23.5,
+      "raw": "L 40.2 94.5 32.2 23.5 105"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 43.3,
+      "chest_width_cm": 97.5,
+      "sleeve_length_cm": 33.8,
+      "garment_length_cm": 24.5,
+      "raw": "XL 43.3 97.5 33.8 24.5 106"
+    }
+  ],
+  "686310510": [
+    {
+      "size": "S",
+      "shoulder_cm": 30.5,
+      "chest_width_cm": 92.5,
+      "sleeve_length_cm": 32.4,
+      "garment_length_cm": 30.4,
+      "raw": "S 30.5 92.5 32.4 30.4 35.6"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 32,
+      "chest_width_cm": 94.9,
+      "sleeve_length_cm": 33.4,
+      "garment_length_cm": 31.4,
+      "raw": "M 32 94.9 33.4 31.4 37.1"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 33,
+      "chest_width_cm": 97.3,
+      "sleeve_length_cm": 34.4,
+      "garment_length_cm": 32.4,
+      "raw": "L 33 97.3 34.4 32.4 38.1"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 35,
+      "chest_width_cm": 99.7,
+      "sleeve_length_cm": 35.9,
+      "garment_length_cm": 33.9,
+      "raw": "XL 35 99.7 35.9 33.9 39.6"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 38,
+      "chest_width_cm": 63.1,
+      "sleeve_length_cm": 37.4,
+      "garment_length_cm": 35.4,
+      "raw": "XXL 38 63.1 37.4 35.4 40.6"
+    }
+  ],
+  "686320310": [],
+  "686360210": [
+    {
+      "size": "S",
+      "shoulder_cm": 30.5,
+      "chest_width_cm": 90.5,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 30.5,
+      "raw": "S 30.5 90.5 31.5 30.5 31.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33,
+      "chest_width_cm": 53,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 31.5,
+      "raw": "M 33 53 32.5 31.5 32.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 35.5,
+      "chest_width_cm": 99.9,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 32.5,
+      "raw": "L 35.5 99.9 34 32.5 34.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 38,
+      "chest_width_cm": 58,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 33.5,
+      "raw": "XL 38 58 35.5 33.5 35.5"
+    }
+  ],
+  "68637": [],
+  "68638": [
+    {
+      "size": "S",
+      "shoulder_cm": 32,
+      "chest_width_cm": 53,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 32,
+      "raw": "S 32 53 33 32 37"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34,
+      "chest_width_cm": 59,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 33,
+      "raw": "M 34 59 34 33 38"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37,
+      "chest_width_cm": 58,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 34.5,
+      "raw": "L 37 58 36 34.5 39"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 61,
+      "sleeve_length_cm": 38,
+      "garment_length_cm": 36.5,
+      "raw": "XL 40 61 38 36.5 40"
+    }
+  ],
+  "686400210": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 30.5,
+      "raw": "S 33 90 31.5 30.5 35"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36,
+      "chest_width_cm": 92.5,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 31.5,
+      "raw": "M 36 92.5 32.5 31.5 36"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 39,
+      "chest_width_cm": 99.9,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 33,
+      "raw": "L 39 99.9 34 33 37.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 98.5,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 34.5,
+      "raw": "XL 42 98.5 35.5 34.5 39"
+    }
+  ],
+  "686410110": [],
+  "686540110": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 45.5,
+      "sleeve_length_cm": 28,
+      "garment_length_cm": 15,
+      "raw": "S 33 45.5 28 15 89.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 48.5,
+      "sleeve_length_cm": 29.5,
+      "garment_length_cm": 15,
+      "raw": "M 34.5 48.5 29.5 15 90.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 50,
+      "sleeve_length_cm": 30.5,
+      "garment_length_cm": 15.5,
+      "raw": "L 37.5 50 30.5 15.5 91.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.5,
+      "chest_width_cm": 53,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 16,
+      "raw": "XL 40.5 53 32 16 92.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 43.5,
+      "chest_width_cm": 96,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 16.5,
+      "raw": "XXL 43.5 96 33.5 16.5 93.5"
+    }
+  ],
+  "686550210": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 54,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 26,
+      "raw": "S 33 54 32 26 82.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 56,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 27,
+      "raw": "M 34.5 56 33 27 83.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 58,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 28,
+      "raw": "L 37.5 58 34 28 84.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.5,
+      "chest_width_cm": 60,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 29,
+      "raw": "XL 40.5 60 35 29 85.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 43.5,
+      "chest_width_cm": 63,
+      "sleeve_length_cm": 37,
+      "garment_length_cm": 30,
+      "raw": "XXL 43.5 63 37 30 86.5"
+    }
+  ],
+  "686570110": [
+    {
+      "size": "S",
+      "shoulder_cm": 32.5,
+      "chest_width_cm": 48,
+      "sleeve_length_cm": 30.2,
+      "garment_length_cm": 23.5,
+      "raw": "S 32.5 48 30.2 23.5 97.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 31.7,
+      "garment_length_cm": 24,
+      "raw": "M 34.5 90 31.7 24 98.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 33.2,
+      "garment_length_cm": 24.5,
+      "raw": "L 37.5 93 33.2 24.5 99.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.5,
+      "chest_width_cm": 96,
+      "sleeve_length_cm": 35.2,
+      "garment_length_cm": 25.9,
+      "raw": "XL 40.5 96 35.2 25.9 100.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 43.5,
+      "chest_width_cm": 60,
+      "sleeve_length_cm": 37.2,
+      "garment_length_cm": 27,
+      "raw": "XXL 43.5 60 37.2 27 101.5"
+    }
+  ],
+  "686620410": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 92.5,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 32.5,
+      "raw": "S 33 92.5 33 32.5 37.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35,
+      "chest_width_cm": 94.5,
+      "sleeve_length_cm": 34.5,
+      "garment_length_cm": 34,
+      "raw": "M 35 94.5 34.5 34 38"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37,
+      "chest_width_cm": 97.5,
+      "sleeve_length_cm": 36.5,
+      "garment_length_cm": 36,
+      "raw": "L 37 97.5 36.5 36 38.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 60.5,
+      "sleeve_length_cm": 38,
+      "garment_length_cm": 37.5,
+      "raw": "XL 40 60.5 38 37.5 39"
+    }
+  ],
+  "686630110": [
+    {
+      "size": "S",
+      "shoulder_cm": 34,
+      "chest_width_cm": 47,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 16,
+      "raw": "S 34 47 29 16 90"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 30,
+      "garment_length_cm": 16.5,
+      "raw": "M 36 49 30 16.5 91"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38.5,
+      "chest_width_cm": 91.5,
+      "sleeve_length_cm": 31,
+      "garment_length_cm": 17,
+      "raw": "L 38.5 91.5 31 17 92"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 41,
+      "chest_width_cm": 54,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 18.5,
+      "raw": "XL 41 54 33 18.5 93"
+    }
+  ],
+  "686640710": [
+    {
+      "size": "S",
+      "shoulder_cm": 34,
+      "chest_width_cm": 47.5,
+      "sleeve_length_cm": 31,
+      "garment_length_cm": 21.5,
+      "raw": "S 34 47.5 31 21.5 93"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36,
+      "chest_width_cm": 49.5,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 22,
+      "raw": "M 36 49.5 32.5 22 94"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38.5,
+      "chest_width_cm": 92.5,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 22.5,
+      "raw": "L 38.5 92.5 34 22.5 95"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 41,
+      "chest_width_cm": 95.5,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 23.5,
+      "raw": "XL 41 95.5 36 23.5 96"
+    }
+  ],
+  "68666": [
+    {
+      "size": "S",
+      "shoulder_cm": 31,
+      "chest_width_cm": 50,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 33.5,
+      "raw": "S 31 50 33.5 33.5 39.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33,
+      "chest_width_cm": 52,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 35.5,
+      "raw": "M 33 52 35.5 35.5 40.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36,
+      "chest_width_cm": 59,
+      "sleeve_length_cm": 37.5,
+      "garment_length_cm": 37.5,
+      "raw": "L 36 59 37.5 37.5 41"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 39,
+      "chest_width_cm": 58,
+      "sleeve_length_cm": 39,
+      "garment_length_cm": 39,
+      "raw": "XL 39 58 39 39 42"
+    }
+  ],
+  "686850510": [
+    {
+      "size": "S",
+      "shoulder_cm": 32,
+      "chest_width_cm": 45,
+      "sleeve_length_cm": 28,
+      "garment_length_cm": 16,
+      "raw": "S 32 45 28 16 94"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33.5,
+      "chest_width_cm": 47,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 17,
+      "raw": "M 33.5 47 29 17 95"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 30,
+      "garment_length_cm": 18,
+      "raw": "L 36 49 30 18 96"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 39,
+      "chest_width_cm": 91.5,
+      "sleeve_length_cm": 31,
+      "garment_length_cm": 19,
+      "raw": "XL 39 91.5 31 19 97"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 94.5,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 20,
+      "raw": "XXL 42 94.5 32 20 98"
+    }
+  ],
+  "686860410": [
+    {
+      "size": "S",
+      "shoulder_cm": 30,
+      "chest_width_cm": 49.5,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 30.5,
+      "raw": "S 30 49.5 31.5 30.5 31.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 32.5,
+      "chest_width_cm": 52,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 31.5,
+      "raw": "M 32.5 52 32.5 31.5 32.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 35,
+      "chest_width_cm": 94.5,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 32.5,
+      "raw": "L 35 94.5 33.5 32.5 34.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 96.5,
+      "sleeve_length_cm": 34.5,
+      "garment_length_cm": 33.5,
+      "raw": "XL 37.5 96.5 34.5 33.5 35.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 99.5,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 34.5,
+      "raw": "XXL 40 99.5 35.5 34.5 37.5"
+    }
+  ],
+  "686880110": [
+    {
+      "size": "S",
+      "shoulder_cm": 34,
+      "chest_width_cm": 48.5,
+      "sleeve_length_cm": 29.5,
+      "garment_length_cm": 25.5,
+      "raw": "S 34 48.5 29.5 25.5 43"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 37,
+      "chest_width_cm": 31,
+      "sleeve_length_cm": 30.5,
+      "garment_length_cm": 26.5,
+      "raw": "M 37 31 30.5 26.5 45"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 39.5,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 27.5,
+      "raw": "L 39.5 93 31.5 27.5 46.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 95.5,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 28.5,
+      "raw": "XL 42 95.5 32.5 28.5 48.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 45,
+      "chest_width_cm": 98.5,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 29.5,
+      "raw": "XXL 45 98.5 33.5 29.5 90"
+    }
+  ],
+  "686900210": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 48,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 16.5,
+      "raw": "S 33 48 31.5 16.5 88.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35,
+      "chest_width_cm": 50,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 17,
+      "raw": "M 35 50 32.5 17 89.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38,
+      "chest_width_cm": 53,
+      "sleeve_length_cm": 34.5,
+      "garment_length_cm": 18,
+      "raw": "L 38 53 34.5 18 90.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 96,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 18.5,
+      "raw": "XL 40 96 36 18.5 92"
+    }
+  ],
+  "68712": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 50,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 33.5,
+      "raw": "S 33 50 35 33.5 40"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35,
+      "chest_width_cm": 92.5,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 35.5,
+      "raw": "M 35 92.5 36 35.5 40.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38,
+      "chest_width_cm": 99,
+      "sleeve_length_cm": 38,
+      "garment_length_cm": 37.5,
+      "raw": "L 38 99 38 37.5 41.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 41,
+      "chest_width_cm": 58,
+      "sleeve_length_cm": 40,
+      "garment_length_cm": 39,
+      "raw": "XL 41 58 40 39 42.5"
+    }
+  ],
+  "687130610": [
+    {
+      "size": "S",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 45,
+      "sleeve_length_cm": 28.4,
+      "garment_length_cm": 15.8,
+      "raw": "S 34.5 45 28.4 15.8 90.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36.5,
+      "chest_width_cm": 47,
+      "sleeve_length_cm": 29.6,
+      "garment_length_cm": 16.5,
+      "raw": "M 36.5 47 29.6 16.5 91"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 39.5,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 31.2,
+      "garment_length_cm": 17.2,
+      "raw": "L 39.5 90 31.2 17.2 92"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 42.5,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 17.9,
+      "raw": "XL 42.5 93 33 17.9 93"
+    }
+  ],
+  "68714": [
+    {
+      "size": "S",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 47,
+      "sleeve_length_cm": 28.5,
+      "garment_length_cm": 16,
+      "raw": "S 34.5 47 28.5 16 90.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36.5,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 29.5,
+      "garment_length_cm": 17,
+      "raw": "M 36.5 49 29.5 17 91"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 39.5,
+      "chest_width_cm": 52,
+      "sleeve_length_cm": 31,
+      "garment_length_cm": 17.7,
+      "raw": "L 39.5 52 31 17.7 92"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 42.5,
+      "chest_width_cm": 94.5,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 18.4,
+      "raw": "XL 42.5 94.5 33 18.4 93"
+    }
+  ],
+  "687150110": [
+    {
+      "size": "S",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 45,
+      "sleeve_length_cm": 28.4,
+      "garment_length_cm": 15.8,
+      "raw": "S 34.5 45 28.4 15.8 90.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36.5,
+      "chest_width_cm": 47,
+      "sleeve_length_cm": 29.6,
+      "garment_length_cm": 16.5,
+      "raw": "M 36.5 47 29.6 16.5 91"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 39.5,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 31.2,
+      "garment_length_cm": 17.2,
+      "raw": "L 39.5 90 31.2 17.2 92"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 42.5,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 17.9,
+      "raw": "XL 42.5 93 33 17.9 93"
+    }
+  ],
+  "687180310": [
+    {
+      "size": "S",
+      "shoulder_cm": 32.5,
+      "chest_width_cm": 99,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 30.5,
+      "raw": "S 32.5 99 33 30.5 47.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 97.5,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 31.5,
+      "raw": "M 34.5 97.5 34 31.5 48.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 60,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 32.5,
+      "raw": "L 37.5 60 35 32.5 50"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.5,
+      "chest_width_cm": 63,
+      "sleeve_length_cm": 36.5,
+      "garment_length_cm": 33.5,
+      "raw": "XL 40.5 63 36.5 33.5 91.5"
+    }
+  ],
+  "68722": [
+    {
+      "size": "S",
+      "shoulder_cm": 31,
+      "chest_width_cm": 39.3,
+      "sleeve_length_cm": 24,
+      "garment_length_cm": 11.5,
+      "raw": "S 31 39.3 24 11.5 95"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33,
+      "chest_width_cm": 41.3,
+      "sleeve_length_cm": 25,
+      "garment_length_cm": 12,
+      "raw": "M 33 41.3 25 12 95.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36,
+      "chest_width_cm": 44.3,
+      "sleeve_length_cm": 27.5,
+      "garment_length_cm": 12.5,
+      "raw": "L 36 44.3 27.5 12.5 96.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 38.5,
+      "chest_width_cm": 47.3,
+      "sleeve_length_cm": 28.5,
+      "garment_length_cm": 13.5,
+      "raw": "XL 38.5 47.3 28.5 13.5 97.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 41.5,
+      "chest_width_cm": 90.3,
+      "sleeve_length_cm": 30,
+      "garment_length_cm": 14,
+      "raw": "XXL 41.5 90.3 30 14 99"
+    }
+  ],
+  "687760210": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 50,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 31,
+      "raw": "S 33 50 32 31 36"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35,
+      "chest_width_cm": 52,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 32,
+      "raw": "M 35 52 33 32 36.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 54,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 33,
+      "raw": "L 37.5 54 34 33 37.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 56,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 34,
+      "raw": "XL 40 56 35 34 38.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 42.5,
+      "chest_width_cm": 58,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 35,
+      "raw": "XXL 42.5 58 36 35 39.5"
+    }
+  ],
+  "687770410": [],
+  "687780410": [
+    {
+      "size": "S",
+      "shoulder_cm": 32,
+      "chest_width_cm": 31,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 28.5,
+      "raw": "S 32 31 32 28.5 40.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33.5,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 29.8,
+      "raw": "M 33.5 93 33 29.8 41.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36,
+      "chest_width_cm": 96,
+      "sleeve_length_cm": 34.5,
+      "garment_length_cm": 31.3,
+      "raw": "L 36 96 34.5 31.3 42.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 38.5,
+      "chest_width_cm": 99,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 32.8,
+      "raw": "XL 38.5 99 36 32.8 43.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 41,
+      "chest_width_cm": 62,
+      "sleeve_length_cm": 37.5,
+      "garment_length_cm": 34.3,
+      "raw": "XXL 41 62 37.5 34.3 44.5"
+    }
+  ],
+  "687790510": [
+    {
+      "size": "S",
+      "shoulder_cm": 32,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 29.5,
+      "garment_length_cm": 16.5,
+      "raw": "S 32 49 29.5 16.5 89"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33.5,
+      "chest_width_cm": 31,
+      "sleeve_length_cm": 30.5,
+      "garment_length_cm": 17,
+      "raw": "M 33.5 31 30.5 17 90"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 17.5,
+      "raw": "L 36 93 32 17.5 91"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 38.5,
+      "chest_width_cm": 96,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 18,
+      "raw": "XL 38.5 96 33.5 18 92"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 41,
+      "chest_width_cm": 99,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 18.5,
+      "raw": "XXL 41 99 35 18.5 93"
+    }
+  ],
+  "68821": [],
+  "688970110": {
+    "error": "商品已下架"
+  },
+  "691270310": [
+    {
+      "size": "S",
+      "shoulder_cm": 32,
+      "chest_width_cm": 59,
+      "sleeve_length_cm": 40,
+      "garment_length_cm": 45.9,
+      "raw": "S 32 59 40 45.9 66"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33,
+      "chest_width_cm": 61,
+      "sleeve_length_cm": 41,
+      "garment_length_cm": 46.5,
+      "raw": "M 33 61 41 46.5 67"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 35.5,
+      "chest_width_cm": 64,
+      "sleeve_length_cm": 42.5,
+      "garment_length_cm": 48,
+      "raw": "L 35.5 64 42.5 48 69.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 38,
+      "chest_width_cm": 68,
+      "sleeve_length_cm": 44.5,
+      "garment_length_cm": 50,
+      "raw": "XL 38 68 44.5 50 71"
+    }
+  ],
+  "69363": [],
+  "693640210": [],
+  "69372": [
+    {
+      "size": "S",
+      "shoulder_cm": 32.5,
+      "chest_width_cm": 4.5,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 32.5,
+      "raw": "S 32.5 04.5 33 32.5 44"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 57,
+      "sleeve_length_cm": 34.5,
+      "garment_length_cm": 34,
+      "raw": "M 34.5 57 34.5 34 45"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 99.5,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 35.5,
+      "raw": "L 37.5 99.5 36 35.5 46"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 62.5,
+      "sleeve_length_cm": 37.5,
+      "garment_length_cm": 37,
+      "raw": "XL 40 62.5 37.5 37 47"
+    }
+  ],
+  "693840210": [
+    {
+      "size": "S",
+      "shoulder_cm": 34,
+      "chest_width_cm": 93.9,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 22,
+      "raw": "S 34 93.9 32 22 97"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36,
+      "chest_width_cm": 99.9,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 22.5,
+      "raw": "M 36 99.9 33.5 22.5 98"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38.5,
+      "chest_width_cm": 98.5,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 23,
+      "raw": "L 38.5 98.5 35 23 99"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 41,
+      "chest_width_cm": 61.5,
+      "sleeve_length_cm": 37,
+      "garment_length_cm": 24,
+      "raw": "XL 41 61.5 37 24 100"
+    }
+  ],
+  "694300210": [
+    {
+      "size": "S",
+      "shoulder_cm": 32.5,
+      "chest_width_cm": 54,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 31.5,
+      "raw": "S 32.5 54 34 31.5 38.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 96.5,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 33,
+      "raw": "M 34.5 96.5 35.5 33 39.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37,
+      "chest_width_cm": 59,
+      "sleeve_length_cm": 37,
+      "garment_length_cm": 34.5,
+      "raw": "L 37 59 37 34.5 41"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 62.5,
+      "sleeve_length_cm": 38.5,
+      "garment_length_cm": 36.5,
+      "raw": "XL 40 62.5 38.5 36.5 42"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 43,
+      "chest_width_cm": 66,
+      "sleeve_length_cm": 41,
+      "garment_length_cm": 38.5,
+      "raw": "XXL 43 66 41 38.5 43"
+    }
+  ],
+  "694370210": [],
+  "694640110": [],
+  "69465": [],
+  "695290210": [],
+  "69533": {
+    "error": "商品已下架"
+  },
+  "695510110": [],
+  "695530110": [],
+  "69625": [],
+  "701760310": [
+    {
+      "size": "S",
+      "shoulder_cm": 31.5,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 24,
+      "raw": "S 31.5 90 31.5 24 97.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33.5,
+      "chest_width_cm": 52,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 24.5,
+      "raw": "M 33.5 52 32.5 24.5 99"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36.5,
+      "chest_width_cm": 995,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 25,
+      "raw": "L 36.5 995 34 25 100"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 98,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 25,
+      "raw": "XL 40 98 35.5 25 101"
+    }
+  ],
+  "70177": {
+    "error": "商品已下架"
+  },
+  "702040210": [],
+  "70208": [],
+  "702090410": [
+    {
+      "size": "S",
+      "shoulder_cm": 32.5,
+      "chest_width_cm": 40.5,
+      "sleeve_length_cm": 25,
+      "garment_length_cm": 11.5,
+      "raw": "S 32.5 40.5 25 11.5 93.7"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 42.5,
+      "sleeve_length_cm": 26,
+      "garment_length_cm": 12.5,
+      "raw": "M 34.5 42.5 26 12.5 94.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37,
+      "chest_width_cm": 45.5,
+      "sleeve_length_cm": 27.5,
+      "garment_length_cm": 13,
+      "raw": "L 37 45.5 27.5 13 95.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 39.5,
+      "chest_width_cm": 48.5,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 13.5,
+      "raw": "XL 39.5 48.5 29 13.5 96.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 91.5,
+      "sleeve_length_cm": 31,
+      "garment_length_cm": 14,
+      "raw": "XXL 42 91.5 31 14 97.5"
+    }
+  ],
+  "702100210": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 42.5,
+      "sleeve_length_cm": 26,
+      "garment_length_cm": 17,
+      "raw": "S 33 42.5 26 17 93"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35.5,
+      "chest_width_cm": 45,
+      "sleeve_length_cm": 2,
+      "garment_length_cm": 18,
+      "raw": "M 35.5 45 2/ 18 94"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38,
+      "chest_width_cm": 47,
+      "sleeve_length_cm": 28.5,
+      "garment_length_cm": 19,
+      "raw": "L 38 47 28.5 19 95.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.3,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 29.5,
+      "garment_length_cm": 20,
+      "raw": "XL 40.3 49 29.5 20 97"
+    }
+  ],
+  "702110110": [
+    {
+      "size": "S",
+      "shoulder_cm": 32.8,
+      "chest_width_cm": 45.5,
+      "sleeve_length_cm": 2,
+      "garment_length_cm": 26,
+      "raw": "S 32.8 45.5 2/ 26 99"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35.3,
+      "chest_width_cm": 48,
+      "sleeve_length_cm": 28.5,
+      "garment_length_cm": 2,
+      "raw": "M 35.3 48 28.5 2/ 100"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.8,
+      "chest_width_cm": 90.5,
+      "sleeve_length_cm": 30,
+      "garment_length_cm": 27.5,
+      "raw": "L 37.8 90.5 30 27.5 101"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.3,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 28,
+      "raw": "XL 40.3 93 31.5 28 102"
+    }
+  ],
+  "702120210": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 48.5,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 23.5,
+      "raw": "S 33 48.5 32.5 23.5 96.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35.5,
+      "chest_width_cm": 90.5,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 24.5,
+      "raw": "M 35.5 90.5 34 24.5 97.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38,
+      "chest_width_cm": 93.5,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 25.5,
+      "raw": "L 38 93.5 35.5 25.5 98.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.5,
+      "chest_width_cm": 96.5,
+      "sleeve_length_cm": 37.5,
+      "garment_length_cm": 26.5,
+      "raw": "XL 40.5 96.5 37.5 26.5 99.5"
+    }
+  ],
+  "702140210": [
+    {
+      "size": "S",
+      "shoulder_cm": 31.5,
+      "chest_width_cm": 47.5,
+      "sleeve_length_cm": 30,
+      "garment_length_cm": 14.5,
+      "raw": "S 31.5 47.5 30 14.5 92.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33.5,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 15,
+      "raw": "M 33.5 90 31.5 15 93.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36.5,
+      "chest_width_cm": 92.5,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 16,
+      "raw": "L 36.5 92.5 33 16 95.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 39,
+      "chest_width_cm": 995,
+      "sleeve_length_cm": 34.5,
+      "garment_length_cm": 16.5,
+      "raw": "XL 39 995 34.5 16.5 96.5"
+    }
+  ],
+  "70215": [],
+  "702160310": [],
+  "70218": [
+    {
+      "size": "S",
+      "shoulder_cm": 31,
+      "chest_width_cm": 48.5,
+      "sleeve_length_cm": 30.5,
+      "garment_length_cm": 23,
+      "raw": "S 31 48.5 30.5 23 98.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33.5,
+      "chest_width_cm": 31,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 23.5,
+      "raw": "M 33.5 31 31.5 23.5 99"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36,
+      "chest_width_cm": 4,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 24,
+      "raw": "L 36 04 33 24 100"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 39,
+      "chest_width_cm": 9,
+      "sleeve_length_cm": 7,
+      "garment_length_cm": 34.5,
+      "raw": "XL 39 9/7 34.5 25 101"
+    }
+  ],
+  "70219": [],
+  "70284": [
+    {
+      "size": "S",
+      "shoulder_cm": 32,
+      "chest_width_cm": 91.5,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 33.5,
+      "raw": "S 32 91.5 33.5 33.5 39.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34,
+      "chest_width_cm": 93.5,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 35.5,
+      "raw": "M 34 93.5 35.5 35.5 40.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37,
+      "chest_width_cm": 99.9,
+      "sleeve_length_cm": 37.5,
+      "garment_length_cm": 37.5,
+      "raw": "L 37 99.9 37.5 37.5 41"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 97.5,
+      "sleeve_length_cm": 39,
+      "garment_length_cm": 39,
+      "raw": "XL 40 97.5 39 39 42"
+    }
+  ],
+  "702850110": [
+    {
+      "size": "XL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 3,
+      "sleeve_length_cm": 7,
+      "garment_length_cm": 42,
+      "raw": "XL 42 3/7 42"
+    }
+  ],
+  "702870210": [
+    {
+      "size": "S",
+      "shoulder_cm": 33.5,
+      "chest_width_cm": 90.5,
+      "sleeve_length_cm": 30.5,
+      "garment_length_cm": 29,
+      "raw": "S 33.5 90.5 30.5 29 40"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35.5,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 30,
+      "raw": "M 35.5 93 31.5 30 41.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38.5,
+      "chest_width_cm": 96,
+      "sleeve_length_cm": 32.5,
+      "garment_length_cm": 31,
+      "raw": "L 38.5 96 32.5 31 43"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 99,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 32,
+      "raw": "XL 42 99 33.5 32 44.5"
+    }
+  ],
+  "702880110": [],
+  "703110310": [],
+  "703170210": [
+    {
+      "size": "S",
+      "shoulder_cm": 29.5,
+      "chest_width_cm": 30.5,
+      "sleeve_length_cm": 19,
+      "garment_length_cm": 9.5,
+      "raw": "S 29.5 30.5 19 9.5 90"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 32,
+      "chest_width_cm": 32,
+      "sleeve_length_cm": 20,
+      "garment_length_cm": 10,
+      "raw": "M 32 32 20 10 91.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 34.5,
+      "sleeve_length_cm": 21,
+      "garment_length_cm": 10.5,
+      "raw": "L 34.5 34.5 21 10.5 92.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 37,
+      "chest_width_cm": 37.5,
+      "sleeve_length_cm": 22,
+      "garment_length_cm": 11,
+      "raw": "XL 37 37.5 22 11 93.5"
+    }
+  ],
+  "703190110": [
+    {
+      "size": "S",
+      "shoulder_cm": 49,
+      "chest_width_cm": 33,
+      "sleeve_length_cm": 30.5,
+      "garment_length_cm": 21.5,
+      "raw": "S 49 33 30.5 21.5 96"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 31,
+      "chest_width_cm": 35,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 22,
+      "raw": "M 31 35 31.5 22 97"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 4,
+      "chest_width_cm": 37.5,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 23,
+      "raw": "L 04 37.5 33.5 23 98"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 9,
+      "chest_width_cm": 7,
+      "sleeve_length_cm": 40,
+      "garment_length_cm": 35,
+      "raw": "XL 9/7 40 35 24 99"
+    }
+  ],
+  "70382": [
+    {
+      "size": "S",
+      "shoulder_cm": 29,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 2,
+      "garment_length_cm": 24,
+      "raw": "S 29 49 2/ 24 97.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 31,
+      "chest_width_cm": 31,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 25,
+      "raw": "M 31 31 29 25 98"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 33,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 26,
+      "raw": "L 33 93 32 26 98.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 35,
+      "chest_width_cm": 995,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 26.5,
+      "raw": "XL 35 995 33 26.5 99"
+    }
+  ],
+  "703830110": [],
+  "712170210": [
+    {
+      "size": "S",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 22.5,
+      "raw": "S 34.5 49 33 22.5 100.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 36.5,
+      "chest_width_cm": 31,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 23.5,
+      "raw": "M 36.5 31 34 23.5 102.3"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 39,
+      "chest_width_cm": 4,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 24.5,
+      "raw": "L 39 04 35.5 24.5 104.1"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 9,
+      "sleeve_length_cm": 7,
+      "garment_length_cm": 37.5,
+      "raw": "XL 42 9/7 37.5 25.5 105.9"
+    }
+  ],
+  "712240210": [],
+  "722090210": [],
+  "722110110": [],
+  "722120110": [
+    {
+      "size": "S",
+      "shoulder_cm": 32,
+      "chest_width_cm": 40.5,
+      "sleeve_length_cm": 25,
+      "garment_length_cm": 21,
+      "raw": "S 32 40.5 25 21 92"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35,
+      "chest_width_cm": 43,
+      "sleeve_length_cm": 26.5,
+      "garment_length_cm": 21.5,
+      "raw": "M 35 43 26.5 21.5 93"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 45.5,
+      "sleeve_length_cm": 28,
+      "garment_length_cm": 22,
+      "raw": "L 37.5 45.5 28 22 94.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 48,
+      "sleeve_length_cm": 29.5,
+      "garment_length_cm": 22.5,
+      "raw": "XL 40 48 29.5 22.5 96"
+    }
+  ],
+  "72213": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 45.5,
+      "sleeve_length_cm": 2,
+      "garment_length_cm": 26,
+      "raw": "S 33 45.5 2/ 26 99"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35.5,
+      "chest_width_cm": 48,
+      "sleeve_length_cm": 28.5,
+      "garment_length_cm": 2,
+      "raw": "M 35.5 48 28.5 2/ 100"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 38,
+      "chest_width_cm": 90.5,
+      "sleeve_length_cm": 30,
+      "garment_length_cm": 28,
+      "raw": "L 38 90.5 30 28 101"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.5,
+      "chest_width_cm": 93,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 29,
+      "raw": "XL 40.5 93 31.5 29 102"
+    }
+  ],
+  "72215": [
+    {
+      "size": "S",
+      "shoulder_cm": 31,
+      "chest_width_cm": 49,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 26,
+      "raw": "S 31 49 29 26 99.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33.5,
+      "chest_width_cm": 91.5,
+      "sleeve_length_cm": 30.2,
+      "garment_length_cm": 26.5,
+      "raw": "M 33.5 91.5 30.2 26.5 100"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 36,
+      "chest_width_cm": 94.5,
+      "sleeve_length_cm": 31.7,
+      "garment_length_cm": 2,
+      "raw": "L 36 94.5 31.7 2/ 101"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 39,
+      "chest_width_cm": 97.5,
+      "sleeve_length_cm": 33.2,
+      "garment_length_cm": 28,
+      "raw": "XL 39 97.5 33.2 28 102"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 42,
+      "chest_width_cm": 60.5,
+      "sleeve_length_cm": 34.7,
+      "garment_length_cm": 29,
+      "raw": "XXL 42 60.5 34.7 29 103"
+    }
+  ],
+  "723140110": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 28.5,
+      "raw": "S 33 90 32 28.5 30"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35,
+      "chest_width_cm": 52,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 29.5,
+      "raw": "M 35 52 33 29.5 31.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 995,
+      "sleeve_length_cm": 34.5,
+      "garment_length_cm": 31,
+      "raw": "L 37.5 995 34.5 31 33.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.5,
+      "chest_width_cm": 98,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 32.5,
+      "raw": "XL 40.5 98 36 32.5 35.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 44.5,
+      "chest_width_cm": 64,
+      "sleeve_length_cm": 39,
+      "garment_length_cm": 35.5,
+      "raw": "XXL 44.5 64 39 35.5 37.5"
+    }
+  ],
+  "72317": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 93.5,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 32,
+      "raw": "S 33 93.5 34 32 40.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35,
+      "chest_width_cm": 96,
+      "sleeve_length_cm": 35.5,
+      "garment_length_cm": 33,
+      "raw": "M 35 96 35.5 33 41"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37,
+      "chest_width_cm": 99,
+      "sleeve_length_cm": 37,
+      "garment_length_cm": 35,
+      "raw": "L 37 99 37 35 42.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 39,
+      "chest_width_cm": 62,
+      "sleeve_length_cm": 39,
+      "garment_length_cm": 3,
+      "raw": "XL 39 62 39 3/ 43.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 41,
+      "chest_width_cm": 65.5,
+      "sleeve_length_cm": 41,
+      "garment_length_cm": 38.5,
+      "raw": "XXL 41 65.5 41 38.5 44.5"
+    }
+  ],
+  "72374": [
+    {
+      "size": "S",
+      "shoulder_cm": 33,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 31,
+      "raw": "S 33 90 32 31 36"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 35,
+      "chest_width_cm": 52,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 32,
+      "raw": "M 35 52 33 32 36.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 4,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 33,
+      "raw": "L 37.5 04 34 33 37.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40,
+      "chest_width_cm": 96,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 34,
+      "raw": "XL 40 96 35 34 38.5"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 42.5,
+      "chest_width_cm": 98,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 35,
+      "raw": "XXL 42.5 98 36 35 39.5"
+    }
+  ],
+  "72602": [
+    {
+      "size": "S",
+      "shoulder_cm": 30,
+      "chest_width_cm": 995,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 32.5,
+      "raw": "S 30 995 32 32.5 35"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 31,
+      "chest_width_cm": 33,
+      "sleeve_length_cm": 33.5,
+      "garment_length_cm": 36,
+      "raw": "M 31 o/ 33 33.5 36"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 32,
+      "chest_width_cm": 99,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 34.5,
+      "raw": "L 32 99 34 34.5 3/"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 34,
+      "chest_width_cm": 61,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 35.5,
+      "raw": "XL 34 61 35 35.5 38"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 36,
+      "chest_width_cm": 63,
+      "sleeve_length_cm": 36,
+      "garment_length_cm": 36.5,
+      "raw": "XXL 36 63 36 36.5 39"
+    }
+  ],
+  "72911": [],
+  "734080210": [
+    {
+      "size": "S",
+      "shoulder_cm": 32.5,
+      "chest_width_cm": 47.5,
+      "sleeve_length_cm": 30,
+      "garment_length_cm": 12,
+      "raw": "S 32.5 47.5 30 12 93.5"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 34.5,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 31.5,
+      "garment_length_cm": 12.5,
+      "raw": "M 34.5 90 31.5 12.5 94.5"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 37.5,
+      "chest_width_cm": 92.5,
+      "sleeve_length_cm": 33,
+      "garment_length_cm": 13,
+      "raw": "L 37.5 92.5 33 13 95.5"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 40.5,
+      "chest_width_cm": 99.9,
+      "sleeve_length_cm": 35,
+      "garment_length_cm": 13.5,
+      "raw": "XL 40.5 99.9 35 13.5 96"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 43.5,
+      "chest_width_cm": 98.5,
+      "sleeve_length_cm": 37,
+      "garment_length_cm": 14,
+      "raw": "XXL 43.5 98.5 37 14 96"
+    }
+  ],
+  "734860110": [
+    {
+      "size": "S",
+      "shoulder_cm": 31,
+      "chest_width_cm": 48,
+      "sleeve_length_cm": 29,
+      "garment_length_cm": 22.5,
+      "raw": "S 31 48 29 22.5 96"
+    },
+    {
+      "size": "M",
+      "shoulder_cm": 33,
+      "chest_width_cm": 90,
+      "sleeve_length_cm": 30,
+      "garment_length_cm": 23.5,
+      "raw": "M 33 90 30 23.5 98"
+    },
+    {
+      "size": "L",
+      "shoulder_cm": 35,
+      "chest_width_cm": 52,
+      "sleeve_length_cm": 31,
+      "garment_length_cm": 24.5,
+      "raw": "L 35 52 31 24.5 99"
+    },
+    {
+      "size": "XL",
+      "shoulder_cm": 37,
+      "chest_width_cm": 95,
+      "sleeve_length_cm": 32,
+      "garment_length_cm": 25.5,
+      "raw": "XL 37 95 32 25.5 101"
+    },
+    {
+      "size": "XXL",
+      "shoulder_cm": 39,
+      "chest_width_cm": 98,
+      "sleeve_length_cm": 34,
+      "garment_length_cm": 26.5,
+      "raw": "XXL 39 98 34 26.5 102"
+    }
+  ]
+}

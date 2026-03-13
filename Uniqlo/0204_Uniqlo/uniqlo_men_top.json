@@ -1,0 +1,4015 @@
+[
+  {
+    "sku_id": "uniqlo-u0000000052999-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052999",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052999",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040 482310",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052999/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052999-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052999",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052999",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040 482310",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052999/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL11.jpg",
+    "color_label": "PINK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL36.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL53.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL04.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL07.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL19.jpg",
+    "color_label": "WINE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL34.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-YELLOW",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL41.jpg",
+    "color_label": "YELLOW",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL55.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL57.jpg",
+    "color_label": "OLIVE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL63.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052892-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052892",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052892",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052892/sku/561/COL05.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052892-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052892",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052892",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052892/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052892-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052892",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052892",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052892/sku/561/COL51.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050307-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050307",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050307",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050307/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050307-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050307",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050307",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050307/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050307-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050307",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050307",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050307/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053220-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053220",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053220",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053220/sku/561/COL18.jpg",
+    "color_label": "WINE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000053220-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053220",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053220",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053220/sku/561/COL34.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053220-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053220",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053220",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053220/sku/561/COL58.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000053187-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053187",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053187",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053187/sku/561/COL19.jpg",
+    "color_label": "WINE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000053187-YELLOW",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053187",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053187",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053187/sku/561/COL41.jpg",
+    "color_label": "YELLOW",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053187-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053187",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053187",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053187/sku/561/COL55.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053187-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053187",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053187",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053187/sku/561/COL63.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000050265-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050265",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050265",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 UNIQLO LOGO印花休閒上衣(長袖) 475800",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050265/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000050265-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050265",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050265",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 UNIQLO LOGO印花休閒上衣(長袖) 475800",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050265/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052617-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052617",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052617",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 Yu Nagaba印花休閒上衣(長袖) 484906",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052617/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051733-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051733",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051733",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 Pokémon 印花休閒上衣(長袖) 479779",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051733/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 990,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052606-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052606",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052606",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 Yu Nagaba印花休閒上衣(長袖) 482744",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052606/sku/561/COL59.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052725-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052725",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052725",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 ZOOTOPIA 印花休閒上衣(長袖) 484357",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052725/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052995-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052995",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052995",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 PEANUTS 印花休閒上衣(長袖) 485041",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052995/sku/561/COL16.jpg",
+    "color_label": "RED",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052692-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052692",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052692",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 PEANUTS 印花休閒上衣(長袖) 485026",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052692/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052694-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052694",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052694",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 PEANUTS 印花休閒上衣(長袖) 482743",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052694/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052615-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052615",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052615",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 Yu Nagaba印花休閒上衣(長袖) 484907",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052615/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052727-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052727",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052727",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 ZOOTOPIA 印花休閒上衣(長袖) 485031",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052727/sku/561/COL67.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052726-DARK ORANG",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052726",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052726",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 ZOOTOPIA 印花休閒上衣(長袖) 485029",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052726/sku/561/COL29.jpg",
+    "color_label": "DARK ORANG",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052691-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052691",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052691",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 PEANUTS 印花休閒上衣(長袖) 485027",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052691/sku/561/COL57.jpg",
+    "color_label": "OLIVE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052733-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052733",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052733",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 ZOOTOPIA 印花休閒上衣(長袖) 485030",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052733/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052688-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052688",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052688",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 PEANUTS 印花休閒上衣(長袖) 485028",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052688/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053351-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053351",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053351",
+    "category": "men_top",
+    "product_name": "男裝 牛津寬版襯衫(長袖) 479996",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053351/sku/561/COL13.jpg",
+    "color_label": "RED",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053351-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053351",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053351",
+    "category": "men_top",
+    "product_name": "男裝 牛津寬版襯衫(長袖) 479996",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053351/sku/561/COL68.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051664-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051664",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051664",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 牛津襯衫(長袖) 475998 / 470293 478086",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051664/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051664-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051664",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051664",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 牛津襯衫(長袖) 475998 / 470293 478086",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051664/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051664-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051664",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051664",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 牛津襯衫(長袖) 475998 / 470293 478086",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051664/sku/561/COL64.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051664-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051664",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051664",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 牛津襯衫(長袖) 475998 / 470293 478086",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051664/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052971-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052971",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052971",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 牛津襯衫(長袖) 482445",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052971/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052971-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052971",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052971",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 牛津襯衫(長袖) 482445",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052971/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052971-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052971",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052971",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 牛津襯衫(長袖) 482445",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052971/sku/561/COL64.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052971-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052971",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052971",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 牛津襯衫(長袖) 482445",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052971/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053048-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053048",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053048",
+    "category": "men_top",
+    "product_name": "男裝 牛津寬版襯衫(長袖) 484244",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053048/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053048-YELLOW",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053048",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053048",
+    "category": "men_top",
+    "product_name": "男裝 牛津寬版襯衫(長袖) 484244",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053048/sku/561/COL41.jpg",
+    "color_label": "YELLOW",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053048-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053048",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053048",
+    "category": "men_top",
+    "product_name": "男裝 牛津寬版襯衫(長袖) 484244",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053048/sku/561/COL51.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053048-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053048",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053048",
+    "category": "men_top",
+    "product_name": "男裝 牛津寬版襯衫(長袖) 484244",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053048/sku/561/COL63.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052230-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052230",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052230",
+    "category": "men_top",
+    "product_name": "男裝 牛津寬版襯衫(長袖)(條紋) 480802",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052230/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052883-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052883",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052883",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼POLO衫(短袖) 479724 482302",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052883/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052883-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052883",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052883",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼POLO衫(短袖) 479724 482302",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052883/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052883-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052883",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052883",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼POLO衫(短袖) 479724 482302",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052883/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052883-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052883",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052883",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼POLO衫(短袖) 479724 482302",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052883/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052883-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052883",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052883",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼POLO衫(短袖) 479724 482302",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052883/sku/561/COL57.jpg",
+    "color_label": "OLIVE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052883-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052883",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052883",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼POLO衫(短袖) 479724 482302",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052883/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053281-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053281",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053281",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼襯衫式POLO衫(短袖) 482303",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053281/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053281-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053281",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053281",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼襯衫式POLO衫(短袖) 482303",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053281/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053281-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053281",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053281",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼襯衫式POLO衫(短袖) 482303",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053281/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053281-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053281",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053281",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼襯衫式POLO衫(短袖) 482303",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053281/sku/561/COL58.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053281-LIGHT BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053281",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053281",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 AIRism棉質網眼襯衫式POLO衫(短袖) 482303",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053281/sku/561/COL60.jpg",
+    "color_label": "LIGHT BLUE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050626-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050626",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050626",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 465196 475367",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050626/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050626-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050626",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050626",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 465196 475367",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050626/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050626-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050626",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050626",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 465196 475367",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050626/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050626-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050626",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050626",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 465196 475367",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050626/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052060-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052060",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052060",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 465196 475367",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052060/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "L",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052060-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052060",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052060",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 465196 475367",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052060/sku/561/COL13.jpg",
+    "color_label": "RED",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052060-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052060",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052060",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 465196 475367",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052060/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052121-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052121",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052121",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 479724",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052121/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052121-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052121",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052121",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 479724",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052121/sku/561/COL13.jpg",
+    "color_label": "RED",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052121-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052121",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052121",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 479724",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052121/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052121-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052121",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052121",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 479724",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052121/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052121-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052121",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052121",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 479724",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052121/sku/561/COL51.jpg",
+    "color_label": "GREEN",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052121-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052121",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052121",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 479724",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052121/sku/561/COL58.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052121-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052121",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052121",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 479724",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052121/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052121-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052121",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052121",
+    "category": "men_top",
+    "product_name": "男裝 AIRism棉質網眼POLO衫(短袖) 479724",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052121/sku/561/COL67.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052198-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052198",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052198",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 圓領拉鍊開襟外套(長袖) 479731",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052198/sku/561/COL04.jpg",
+    "color_label": "GRAY",
+    "original_price": 1490,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052198-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052198",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052198",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 圓領拉鍊開襟外套(長袖) 479731",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052198/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 1490,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052198-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052198",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052198",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 圓領拉鍊開襟外套(長袖) 479731",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052198/sku/561/COL59.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 1490,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052198-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052198",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052198",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 圓領拉鍊開襟外套(長袖) 479731",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052198/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1490,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053108-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053108",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053108",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 米蘭羅紋襯衫式開襟外套 478550 484956",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053108/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 1490,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053108-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053108",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053108",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 米蘭羅紋襯衫式開襟外套 478550 484956",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053108/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1490,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053108-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053108",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053108",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 米蘭羅紋襯衫式開襟外套 478550 484956",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053108/sku/561/COL56.jpg",
+    "color_label": "OLIVE",
+    "original_price": 1490,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053108-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053108",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053108",
+    "category": "men_top",
+    "product_name": "男裝/男女適穿 米蘭羅紋襯衫式開襟外套 478550 484956",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053108/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1490,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053362-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053362",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053362",
+    "category": "men_top",
+    "product_name": "男裝 米蘭羅紋襯衫式開襟外套 478550",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053362/sku/561/COL57.jpg",
+    "color_label": "OLIVE",
+    "original_price": 1490,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053203-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053203",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053203",
+    "category": "men_top",
+    "product_name": "男裝 V領開襟外套(長袖) 481727",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053203/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053203-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053203",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053203",
+    "category": "men_top",
+    "product_name": "男裝 V領開襟外套(長袖) 481727",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053203/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053203-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053203",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053203",
+    "category": "men_top",
+    "product_name": "男裝 V領開襟外套(長袖) 481727",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053203/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL07.jpg",
+    "color_label": "GRAY",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL16.jpg",
+    "color_label": "RED",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-ORANGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL25.jpg",
+    "color_label": "ORANGE",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL51.jpg",
+    "color_label": "GREEN",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL55.jpg",
+    "color_label": "GREEN",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL57.jpg",
+    "color_label": "OLIVE",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL67.jpg",
+    "color_label": "BLUE",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-PURPLE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL74.jpg",
+    "color_label": "PURPLE",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052101-PURPLE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052101",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052101",
+    "category": "men_top",
+    "product_name": "男裝 喀什米爾圓領毛衣(長袖) 478543",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052101/sku/561/COL78.jpg",
+    "color_label": "PURPLE",
+    "original_price": 3490,
+    "current_price": 2490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052313-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052313",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052313",
+    "category": "men_top",
+    "product_name": "男裝 防風無縫羽絨外套 481608",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052313/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 3990,
+    "current_price": 2990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052313-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052313",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052313",
+    "category": "men_top",
+    "product_name": "男裝 防風無縫羽絨外套 481608",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052313/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 3990,
+    "current_price": 2990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052313-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052313",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052313",
+    "category": "men_top",
+    "product_name": "男裝 防風無縫羽絨外套 481608",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052313/sku/561/COL39.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 3990,
+    "current_price": 2990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052430-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052430",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052430",
+    "category": "men_top",
+    "product_name": "男裝 防風防潑水刷毛連帽外套(長袖) 481182",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052430/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 1490,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052430-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052430",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052430",
+    "category": "men_top",
+    "product_name": "男裝 防風防潑水刷毛連帽外套(長袖) 481182",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052430/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1490,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052430-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052430",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052430",
+    "category": "men_top",
+    "product_name": "男裝 防風防潑水刷毛連帽外套(長袖) 481182",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052430/sku/561/COL57.jpg",
+    "color_label": "OLIVE",
+    "original_price": 1490,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052430-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052430",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052430",
+    "category": "men_top",
+    "product_name": "男裝 防風防潑水刷毛連帽外套(長袖) 481182",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052430/sku/561/COL65.jpg",
+    "color_label": "BLUE",
+    "original_price": 1490,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052677-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052677",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052677",
+    "category": "men_top",
+    "product_name": "男裝 防風連帽外套 478231 482213",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052677/sku/561/COL34.jpg",
+    "color_label": "BROWN",
+    "original_price": 1990,
+    "current_price": 1490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052677-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052677",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052677",
+    "category": "men_top",
+    "product_name": "男裝 防風連帽外套 478231 482213",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052677/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1990,
+    "current_price": 1490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050584-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050584",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050584",
+    "category": "men_top",
+    "product_name": "男裝 BLOCKTECH 防風雨連帽外套 470044 / 478229 475033",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050584/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1990,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050584-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050584",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050584",
+    "category": "men_top",
+    "product_name": "男裝 BLOCKTECH 防風雨連帽外套 470044 / 478229 475033",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050584/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1990,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052976-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052976",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052976",
+    "category": "men_top",
+    "product_name": "男裝 BLOCKTECH防風雨連帽外套 482211",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052976/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 1990,
+    "current_price": 1990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052976-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052976",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052976",
+    "category": "men_top",
+    "product_name": "男裝 BLOCKTECH防風雨連帽外套 482211",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052976/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1990,
+    "current_price": 1990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052976-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052976",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052976",
+    "category": "men_top",
+    "product_name": "男裝 BLOCKTECH防風雨連帽外套 482211",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052976/sku/561/COL56.jpg",
+    "color_label": "OLIVE",
+    "original_price": 1990,
+    "current_price": 1990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052976-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052976",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052976",
+    "category": "men_top",
+    "product_name": "男裝 BLOCKTECH防風雨連帽外套 482211",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052976/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1990,
+    "current_price": 1990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053537-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053537",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053537",
+    "category": "men_top",
+    "product_name": "男裝 防風立領連帽外套 484247",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053537/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 1990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053537-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053537",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053537",
+    "category": "men_top",
+    "product_name": "男裝 防風立領連帽外套 484247",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053537/sku/561/COL56.jpg",
+    "color_label": "OLIVE",
+    "original_price": 1990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053537-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053537",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053537",
+    "category": "men_top",
+    "product_name": "男裝 防風立領連帽外套 484247",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053537/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1990,
+    "current_price": 1990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  }
+]

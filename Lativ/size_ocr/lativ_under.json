@@ -1,0 +1,7300 @@
+[
+  {
+    "sku_id": "lativ-68714-米杏",
+    "brand": "LATIV",
+    "parent_id": "68714",
+    "sku_url": "https://www.lativ.com.tw/product/68714",
+    "category": "trousers",
+    "product_name": "彈性西裝九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500V_7W195YHS",
+    "color_label": "米杏",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-68714-棕色",
+    "brand": "LATIV",
+    "parent_id": "68714",
+    "sku_url": "https://www.lativ.com.tw/product/68714",
+    "category": "trousers",
+    "product_name": "彈性西裝九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Uk7W1kXZHS",
+    "color_label": "棕色",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-68714-灰色",
+    "brand": "LATIV",
+    "parent_id": "68714",
+    "sku_url": "https://www.lativ.com.tw/product/68714",
+    "category": "trousers",
+    "product_name": "彈性西裝九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500uYvs29XZSS",
+    "color_label": "灰色",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-68714-深藍",
+    "brand": "LATIV",
+    "parent_id": "68714",
+    "sku_url": "https://www.lativ.com.tw/product/68714",
+    "category": "trousers",
+    "product_name": "彈性西裝九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500VhvW295ZSS",
+    "color_label": "深藍",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-687130610-卡其",
+    "brand": "LATIV",
+    "parent_id": "687130610",
+    "sku_url": "https://www.lativ.com.tw/product/687130610",
+    "category": "trousers",
+    "product_name": "鬆緊腰頭九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500W0wMIndZH",
+    "color_label": "卡其",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687130610-淺灰粉",
+    "brand": "LATIV",
+    "parent_id": "687130610",
+    "sku_url": "https://www.lativ.com.tw/product/687130610",
+    "category": "trousers",
+    "product_name": "鬆緊腰頭九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005002i3xInlZHS",
+    "color_label": "淺灰粉",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687130610-淺麻灰",
+    "brand": "LATIV",
+    "parent_id": "687130610",
+    "sku_url": "https://www.lativ.com.tw/product/687130610",
+    "category": "trousers",
+    "product_name": "鬆緊腰頭九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500XIgxqFlZH",
+    "color_label": "淺麻灰",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687130610-深麻灰",
+    "brand": "LATIV",
+    "parent_id": "687130610",
+    "sku_url": "https://www.lativ.com.tw/product/687130610",
+    "category": "trousers",
+    "product_name": "鬆緊腰頭九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500b_NMIFlYSS",
+    "color_label": "深麻灰",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687130610-藏青",
+    "brand": "LATIV",
+    "parent_id": "687130610",
+    "sku_url": "https://www.lativ.com.tw/product/687130610",
+    "category": "trousers",
+    "product_name": "鬆緊腰頭九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005000FNMqndYHS",
+    "color_label": "藏青",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687130610-黑色",
+    "brand": "LATIV",
+    "parent_id": "687130610",
+    "sku_url": "https://www.lativ.com.tw/product/687130610",
+    "category": "trousers",
+    "product_name": "鬆緊腰頭九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500rG0xIFlZSS",
+    "color_label": "黑色",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-734860110-淺卡其",
+    "brand": "LATIV",
+    "parent_id": "734860110",
+    "sku_url": "https://www.lativ.com.tw/product/734860110",
+    "category": "trousers",
+    "product_name": "輕涼羅紋側開衩長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500txO8qNOAHS",
+    "color_label": "淺卡其",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-734860110-深灰",
+    "brand": "LATIV",
+    "parent_id": "734860110",
+    "sku_url": "https://www.lativ.com.tw/product/734860110",
+    "category": "trousers",
+    "product_name": "輕涼羅紋側開衩長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500rmy8INOAHS",
+    "color_label": "深灰",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-734860110-藏青",
+    "brand": "LATIV",
+    "parent_id": "734860110",
+    "sku_url": "https://www.lativ.com.tw/product/734860110",
+    "category": "trousers",
+    "product_name": "輕涼羅紋側開衩長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500fd2mq0OPS",
+    "color_label": "藏青",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-734860110-黑色",
+    "brand": "LATIV",
+    "parent_id": "734860110",
+    "sku_url": "https://www.lativ.com.tw/product/734860110",
+    "category": "trousers",
+    "product_name": "輕涼羅紋側開衩長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Wf2mqNOAHS",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686850510-米杏",
+    "brand": "LATIV",
+    "parent_id": "686850510",
+    "sku_url": "https://www.lativ.com.tw/product/686850510",
+    "category": "trousers",
+    "product_name": "卡其修身直筒長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005002X5E-vdZSS",
+    "color_label": "米杏",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-686850510-卡其",
+    "brand": "LATIV",
+    "parent_id": "686850510",
+    "sku_url": "https://www.lativ.com.tw/product/686850510",
+    "category": "trousers",
+    "product_name": "卡其修身直筒長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500DKXEhblZHS",
+    "color_label": "卡其",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-686850510-灰綠",
+    "brand": "LATIV",
+    "parent_id": "686850510",
+    "sku_url": "https://www.lativ.com.tw/product/686850510",
+    "category": "trousers",
+    "product_name": "卡其修身直筒長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005009ZLihbdZSS",
+    "color_label": "灰綠",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-686850510-藏青",
+    "brand": "LATIV",
+    "parent_id": "686850510",
+    "sku_url": "https://www.lativ.com.tw/product/686850510",
+    "category": "trousers",
+    "product_name": "卡其修身直筒長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500i9Li-vdZH",
+    "color_label": "藏青",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-686850510-黑色",
+    "brand": "LATIV",
+    "parent_id": "686850510",
+    "sku_url": "https://www.lativ.com.tw/product/686850510",
+    "category": "trousers",
+    "product_name": "卡其修身直筒長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500gtLEhvdZHS",
+    "color_label": "黑色",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-703190110-米杏",
+    "brand": "LATIV",
+    "parent_id": "703190110",
+    "sku_url": "https://www.lativ.com.tw/product/703190110",
+    "category": "trousers",
+    "product_name": "彈性針織直筒寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500BeZk3LeYH",
+    "color_label": "米杏",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686630110-卡其",
+    "brand": "LATIV",
+    "parent_id": "686630110",
+    "sku_url": "https://www.lativ.com.tw/product/686630110",
+    "category": "trousers",
+    "product_name": "棉麻九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500m7HzivUZS",
+    "color_label": "卡其",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686630110-淺灰綠",
+    "brand": "LATIV",
+    "parent_id": "686630110",
+    "sku_url": "https://www.lativ.com.tw/product/686630110",
+    "category": "trousers",
+    "product_name": "棉麻九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ZYMUivUZSS",
+    "color_label": "淺灰綠",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686630110-桔色",
+    "brand": "LATIV",
+    "parent_id": "686630110",
+    "sku_url": "https://www.lativ.com.tw/product/686630110",
+    "category": "trousers",
+    "product_name": "棉麻九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500b-xzEvUZSS",
+    "color_label": "桔色",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686630110-深咖",
+    "brand": "LATIV",
+    "parent_id": "686630110",
+    "sku_url": "https://www.lativ.com.tw/product/686630110",
+    "category": "trousers",
+    "product_name": "棉麻九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500d1yzibzZHS",
+    "color_label": "深咖",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-701760310-咖啡格",
+    "brand": "LATIV",
+    "parent_id": "701760310",
+    "sku_url": "https://www.lativ.com.tw/product/701760310",
+    "category": "trousers",
+    "product_name": "法蘭絨格紋長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500cK6Vtj6ZSS",
+    "color_label": "咖啡格",
+    "original_price": 399,
+    "current_price": 390,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-701760310-藏青格",
+    "brand": "LATIV",
+    "parent_id": "701760310",
+    "sku_url": "https://www.lativ.com.tw/product/701760310",
+    "category": "trousers",
+    "product_name": "法蘭絨格紋長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500JmGVtjGYHS",
+    "color_label": "藏青格",
+    "original_price": 399,
+    "current_price": 390,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686150110-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686150110",
+    "sku_url": "https://www.lativ.com.tw/product/686150110",
+    "category": "trousers",
+    "product_name": "特彈修身九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005008OuNbnlYSS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "24",
+      "25",
+      "26"
+    ],
+    "available_list": [
+      "24",
+      "25",
+      "26"
+    ]
+  },
+  {
+    "sku_id": "lativ-686150110-藍色",
+    "brand": "LATIV",
+    "parent_id": "686150110",
+    "sku_url": "https://www.lativ.com.tw/product/686150110",
+    "category": "trousers",
+    "product_name": "特彈修身九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500vg_0vnlZSS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "24",
+      "25",
+      "26"
+    ],
+    "available_list": [
+      "24",
+      "25",
+      "26"
+    ]
+  },
+  {
+    "sku_id": "lativ-686150110-黑色",
+    "brand": "LATIV",
+    "parent_id": "686150110",
+    "sku_url": "https://www.lativ.com.tw/product/686150110",
+    "category": "trousers",
+    "product_name": "特彈修身九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Hxl0vFdYH",
+    "color_label": "黑色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "24",
+      "25",
+      "26"
+    ],
+    "available_list": [
+      "24",
+      "25",
+      "26"
+    ]
+  },
+  {
+    "sku_id": "lativ-686220310-深藍",
+    "brand": "LATIV",
+    "parent_id": "686220310",
+    "sku_url": "https://www.lativ.com.tw/product/686220310",
+    "category": "trousers",
+    "product_name": "輕量靴型牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500chny22ZYHS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "24",
+      "26"
+    ],
+    "available_list": [
+      "24",
+      "26"
+    ]
+  },
+  {
+    "sku_id": "lativ-672250210-深藍",
+    "brand": "LATIV",
+    "parent_id": "672250210",
+    "sku_url": "https://www.lativ.com.tw/product/672250210",
+    "category": "trousers",
+    "product_name": "立體剪裁高腰靴型牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500It2CGkvaS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "28"
+    ],
+    "available_list": [
+      "28"
+    ]
+  },
+  {
+    "sku_id": "lativ-722090210-白色",
+    "brand": "LATIV",
+    "parent_id": "722090210",
+    "sku_url": "https://www.lativ.com.tw/product/722090210",
+    "category": "trousers",
+    "product_name": "修身男友風九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Su3I8i_PS",
+    "color_label": "白色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-722090210-淺藍",
+    "brand": "LATIV",
+    "parent_id": "722090210",
+    "sku_url": "https://www.lativ.com.tw/product/722090210",
+    "category": "trousers",
+    "product_name": "修身男友風九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Xfgq8iuPS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-722090210-藍色",
+    "brand": "LATIV",
+    "parent_id": "722090210",
+    "sku_url": "https://www.lativ.com.tw/product/722090210",
+    "category": "trousers",
+    "product_name": "修身男友風九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500jB0ImE_PSS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-722090210-深藍",
+    "brand": "LATIV",
+    "parent_id": "722090210",
+    "sku_url": "https://www.lativ.com.tw/product/722090210",
+    "category": "trousers",
+    "product_name": "修身男友風九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500tYNI8EuAH",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-70382-麻花棕",
+    "brand": "LATIV",
+    "parent_id": "70382",
+    "sku_url": "https://www.lativ.com.tw/product/70382",
+    "category": "trousers",
+    "product_name": "針織羅紋長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500z2BwrE6ZS",
+    "color_label": "麻花棕",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70382-軍綠",
+    "brand": "LATIV",
+    "parent_id": "70382",
+    "sku_url": "https://www.lativ.com.tw/product/70382",
+    "category": "trousers",
+    "product_name": "針織羅紋長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500kkBw4iGZHS",
+    "color_label": "軍綠",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70382-深麻灰",
+    "brand": "LATIV",
+    "parent_id": "70382",
+    "sku_url": "https://www.lativ.com.tw/product/70382",
+    "category": "trousers",
+    "product_name": "針織羅紋長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ReBKri6YSS",
+    "color_label": "深麻灰",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70382-黑色",
+    "brand": "LATIV",
+    "parent_id": "70382",
+    "sku_url": "https://www.lativ.com.tw/product/70382",
+    "category": "trousers",
+    "product_name": "針織羅紋長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500IMHwrEGZH",
+    "color_label": "黑色",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702100210-米卡其",
+    "brand": "LATIV",
+    "parent_id": "702100210",
+    "sku_url": "https://www.lativ.com.tw/product/702100210",
+    "category": "trousers",
+    "product_name": "多色修身直筒九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Rp8ntK3ZSS",
+    "color_label": "米卡其",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702100210-棕色",
+    "brand": "LATIV",
+    "parent_id": "702100210",
+    "sku_url": "https://www.lativ.com.tw/product/702100210",
+    "category": "trousers",
+    "product_name": "多色修身直筒九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500lcjFTwgYS",
+    "color_label": "棕色",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702100210-黑色",
+    "brand": "LATIV",
+    "parent_id": "702100210",
+    "sku_url": "https://www.lativ.com.tw/product/702100210",
+    "category": "trousers",
+    "product_name": "多色修身直筒九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500SY7ntKgZSS",
+    "color_label": "黑色",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702140210-藍色",
+    "brand": "LATIV",
+    "parent_id": "702140210",
+    "sku_url": "https://www.lativ.com.tw/product/702140210",
+    "category": "trousers",
+    "product_name": "針織九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500qgWLRjNZS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702140210-深藍",
+    "brand": "LATIV",
+    "parent_id": "702140210",
+    "sku_url": "https://www.lativ.com.tw/product/702140210",
+    "category": "trousers",
+    "product_name": "針織九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500dZDLajNYH",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687790510-暖灰",
+    "brand": "LATIV",
+    "parent_id": "687790510",
+    "sku_url": "https://www.lativ.com.tw/product/687790510",
+    "category": "trousers",
+    "product_name": "涼感九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500E27bJxAZHS",
+    "color_label": "暖灰",
+    "original_price": 399,
+    "current_price": 390,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687790510-黑色",
+    "brand": "LATIV",
+    "parent_id": "687790510",
+    "sku_url": "https://www.lativ.com.tw/product/687790510",
+    "category": "trousers",
+    "product_name": "涼感九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Rf7bJMAYH",
+    "color_label": "黑色",
+    "original_price": 399,
+    "current_price": 390,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-693840210-卡其條",
+    "brand": "LATIV",
+    "parent_id": "693840210",
+    "sku_url": "https://www.lativ.com.tw/product/693840210",
+    "category": "trousers",
+    "product_name": "亞麻混紡條紋輕便長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500rbUX-L4ZS",
+    "color_label": "卡其條",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-693840210-灰色條",
+    "brand": "LATIV",
+    "parent_id": "693840210",
+    "sku_url": "https://www.lativ.com.tw/product/693840210",
+    "category": "trousers",
+    "product_name": "亞麻混紡條紋輕便長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500cCr5hfrYS",
+    "color_label": "灰色條",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-683810210-米色",
+    "brand": "LATIV",
+    "parent_id": "683810210",
+    "sku_url": "https://www.lativ.com.tw/product/683810210",
+    "category": "trousers",
+    "product_name": "嫘縈印花長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/0500050052zPiY5YH",
+    "color_label": "米色",
+    "original_price": 399,
+    "current_price": 299,
+    "full_size_list": [
+      "S"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "lativ-683810210-深藍",
+    "brand": "LATIV",
+    "parent_id": "683810210",
+    "sku_url": "https://www.lativ.com.tw/product/683810210",
+    "category": "trousers",
+    "product_name": "嫘縈印花長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500pFzPiY5ZSS",
+    "color_label": "深藍",
+    "original_price": 399,
+    "current_price": 299,
+    "full_size_list": [
+      "S"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "lativ-722120110-藍色",
+    "brand": "LATIV",
+    "parent_id": "722120110",
+    "sku_url": "https://www.lativ.com.tw/product/722120110",
+    "category": "trousers",
+    "product_name": "輕量高腰靴型九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500t75h5KlAHS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-722120110-深藍",
+    "brand": "LATIV",
+    "parent_id": "722120110",
+    "sku_url": "https://www.lativ.com.tw/product/722120110",
+    "category": "trousers",
+    "product_name": "輕量高腰靴型九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500D-f-5KdAH",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-722120110-黑灰",
+    "brand": "LATIV",
+    "parent_id": "722120110",
+    "sku_url": "https://www.lativ.com.tw/product/722120110",
+    "category": "trousers",
+    "product_name": "輕量高腰靴型九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500r1n-5KdPSS",
+    "color_label": "黑灰",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-683800310-深粉",
+    "brand": "LATIV",
+    "parent_id": "683800310",
+    "sku_url": "https://www.lativ.com.tw/product/683800310",
+    "category": "trousers",
+    "product_name": "嫘縈長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500jyYOHSXZHS",
+    "color_label": "深粉",
+    "original_price": 399,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-683800310-磚桔",
+    "brand": "LATIV",
+    "parent_id": "683800310",
+    "sku_url": "https://www.lativ.com.tw/product/683800310",
+    "category": "trousers",
+    "product_name": "嫘縈長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500VSAOSSXYS",
+    "color_label": "磚桔",
+    "original_price": 399,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-686640710-米卡其",
+    "brand": "LATIV",
+    "parent_id": "686640710",
+    "sku_url": "https://www.lativ.com.tw/product/686640710",
+    "category": "trousers",
+    "product_name": "棉麻長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500LA8w8QZZH",
+    "color_label": "米卡其",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686640710-卡其",
+    "brand": "LATIV",
+    "parent_id": "686640710",
+    "sku_url": "https://www.lativ.com.tw/product/686640710",
+    "category": "trousers",
+    "product_name": "棉麻長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500M2qc-npZS",
+    "color_label": "卡其",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686640710-粉色",
+    "brand": "LATIV",
+    "parent_id": "686640710",
+    "sku_url": "https://www.lativ.com.tw/product/686640710",
+    "category": "trousers",
+    "product_name": "棉麻長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005004Djw8QZZHS",
+    "color_label": "粉色",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686640710-麻花藍",
+    "brand": "LATIV",
+    "parent_id": "686640710",
+    "sku_url": "https://www.lativ.com.tw/product/686640710",
+    "category": "trousers",
+    "product_name": "棉麻長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500E7jK8QYZHS",
+    "color_label": "麻花藍",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686640710-藏青",
+    "brand": "LATIV",
+    "parent_id": "686640710",
+    "sku_url": "https://www.lativ.com.tw/product/686640710",
+    "category": "trousers",
+    "product_name": "棉麻長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500eabKmVYZH",
+    "color_label": "藏青",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686640710-深桔",
+    "brand": "LATIV",
+    "parent_id": "686640710",
+    "sku_url": "https://www.lativ.com.tw/product/686640710",
+    "category": "trousers",
+    "product_name": "棉麻長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500D9seC1_PHS",
+    "color_label": "深桔",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70219-淺藍",
+    "brand": "LATIV",
+    "parent_id": "70219",
+    "sku_url": "https://www.lativ.com.tw/product/70219",
+    "category": "trousers",
+    "product_name": "刷破男友風九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500VyNfRjNYSS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-70219-藍色",
+    "brand": "LATIV",
+    "parent_id": "70219",
+    "sku_url": "https://www.lativ.com.tw/product/70219",
+    "category": "trousers",
+    "product_name": "刷破男友風九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/0500050010NfRj0ZSS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-686160110-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686160110",
+    "sku_url": "https://www.lativ.com.tw/product/686160110",
+    "category": "trousers",
+    "product_name": "高腰修身直筒九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005008LWxlbaZH",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-686160110-深藍",
+    "brand": "LATIV",
+    "parent_id": "686160110",
+    "sku_url": "https://www.lativ.com.tw/product/686160110",
+    "category": "trousers",
+    "product_name": "高腰修身直筒九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500lyCxlbRZHS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-734080210-杏色",
+    "brand": "LATIV",
+    "parent_id": "734080210",
+    "sku_url": "https://www.lativ.com.tw/product/734080210",
+    "category": "trousers",
+    "product_name": "涼感彈力褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500tGqD5KlAS",
+    "color_label": "杏色",
+    "original_price": null,
+    "current_price": 499,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-734080210-藏青",
+    "brand": "LATIV",
+    "parent_id": "734080210",
+    "sku_url": "https://www.lativ.com.tw/product/734080210",
+    "category": "trousers",
+    "product_name": "涼感彈力褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005000kmDXKlPSS",
+    "color_label": "藏青",
+    "original_price": null,
+    "current_price": 499,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-734080210-黑色",
+    "brand": "LATIV",
+    "parent_id": "734080210",
+    "sku_url": "https://www.lativ.com.tw/product/734080210",
+    "category": "trousers",
+    "product_name": "涼感彈力褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ee8C5wlAHS",
+    "color_label": "黑色",
+    "original_price": null,
+    "current_price": 499,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686210310-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686210310",
+    "sku_url": "https://www.lativ.com.tw/product/686210310",
+    "category": "trousers",
+    "product_name": "寬版高腰男友風九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005009KLttMAZH",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-686210310-深藍",
+    "brand": "LATIV",
+    "parent_id": "686210310",
+    "sku_url": "https://www.lativ.com.tw/product/686210310",
+    "category": "trousers",
+    "product_name": "寬版高腰男友風九分牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500oNnttxPYSS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-687150110-淺灰",
+    "brand": "LATIV",
+    "parent_id": "687150110",
+    "sku_url": "https://www.lativ.com.tw/product/687150110",
+    "category": "trousers",
+    "product_name": "鬆緊腰頭格紋九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005007V5TTFdYSS",
+    "color_label": "淺灰",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687150110-卡其",
+    "brand": "LATIV",
+    "parent_id": "687150110",
+    "sku_url": "https://www.lativ.com.tw/product/687150110",
+    "category": "trousers",
+    "product_name": "鬆緊腰頭格紋九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500DlLTtFdZHS",
+    "color_label": "卡其",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687150110-藏青",
+    "brand": "LATIV",
+    "parent_id": "687150110",
+    "sku_url": "https://www.lativ.com.tw/product/687150110",
+    "category": "trousers",
+    "product_name": "鬆緊腰頭格紋九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005004-LtTFdYH",
+    "color_label": "藏青",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68628-淺藍",
+    "brand": "LATIV",
+    "parent_id": "68628",
+    "sku_url": "https://www.lativ.com.tw/product/68628",
+    "category": "trousers",
+    "product_name": "高腰直筒落地牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005001nKxSSYZHS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-68628-藍色",
+    "brand": "LATIV",
+    "parent_id": "68628",
+    "sku_url": "https://www.lativ.com.tw/product/68628",
+    "category": "trousers",
+    "product_name": "高腰直筒落地牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500K0wMSSZZH",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-686170310-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686170310",
+    "sku_url": "https://www.lativ.com.tw/product/686170310",
+    "category": "trousers",
+    "product_name": "特彈窄管牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500VKQ6cSYYSS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29"
+    ]
+  },
+  {
+    "sku_id": "lativ-686170310-藍色",
+    "brand": "LATIV",
+    "parent_id": "686170310",
+    "sku_url": "https://www.lativ.com.tw/product/686170310",
+    "category": "trousers",
+    "product_name": "特彈窄管牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500MBKGBHZYHS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29"
+    ]
+  },
+  {
+    "sku_id": "lativ-686170310-深藍",
+    "brand": "LATIV",
+    "parent_id": "686170310",
+    "sku_url": "https://www.lativ.com.tw/product/686170310",
+    "category": "trousers",
+    "product_name": "特彈窄管牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500j9wGBSZZHS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29"
+    ]
+  },
+  {
+    "sku_id": "lativ-686170310-黑色",
+    "brand": "LATIV",
+    "parent_id": "686170310",
+    "sku_url": "https://www.lativ.com.tw/product/686170310",
+    "category": "trousers",
+    "product_name": "特彈窄管牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500zIK6BHYZHS",
+    "color_label": "黑色",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "available_list": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29"
+    ]
+  },
+  {
+    "sku_id": "lativ-67079-粉色",
+    "brand": "LATIV",
+    "parent_id": "67079",
+    "sku_url": "https://www.lativ.com.tw/product/67079",
+    "category": "trousers",
+    "product_name": "多色高腰直筒落地牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500dEE1bbbRS",
+    "color_label": "粉色",
+    "original_price": 690,
+    "current_price": 390,
+    "full_size_list": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686900210-米杏",
+    "brand": "LATIV",
+    "parent_id": "686900210",
+    "sku_url": "https://www.lativ.com.tw/product/686900210",
+    "category": "trousers",
+    "product_name": "棉質輕便九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500_GGY2JlZHS",
+    "color_label": "米杏",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686900210-卡其",
+    "brand": "LATIV",
+    "parent_id": "686900210",
+    "sku_url": "https://www.lativ.com.tw/product/686900210",
+    "category": "trousers",
+    "product_name": "棉質輕便九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500jMJZ1JlYHS",
+    "color_label": "卡其",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686900210-粉色",
+    "brand": "LATIV",
+    "parent_id": "686900210",
+    "sku_url": "https://www.lativ.com.tw/product/686900210",
+    "category": "trousers",
+    "product_name": "棉質輕便九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ZrJZ2JdZS",
+    "color_label": "粉色",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70177-咖啡",
+    "brand": "LATIV",
+    "parent_id": "70177",
+    "sku_url": "https://www.lativ.com.tw/product/70177",
+    "category": "trousers",
+    "product_name": "法蘭絨長褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Hf2sEVGYS",
+    "color_label": "咖啡",
+    "original_price": 399,
+    "current_price": 390,
+    "full_size_list": [
+      "S"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "lativ-691270310-淺藍",
+    "brand": "LATIV",
+    "parent_id": "691270310",
+    "sku_url": "https://www.lativ.com.tw/product/691270310",
+    "category": "jeans",
+    "product_name": "軟牛仔七分寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500C-z3RD_YS",
+    "color_label": "淺藍",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-691270310-藍色",
+    "brand": "LATIV",
+    "parent_id": "691270310",
+    "sku_url": "https://www.lativ.com.tw/product/691270310",
+    "category": "jeans",
+    "product_name": "軟牛仔七分寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500itzgaD_YHS",
+    "color_label": "藍色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-691270310-深藍",
+    "brand": "LATIV",
+    "parent_id": "691270310",
+    "sku_url": "https://www.lativ.com.tw/product/691270310",
+    "category": "jeans",
+    "product_name": "軟牛仔七分寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500AL4gaDuZHS",
+    "color_label": "深藍",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-686540110-淡藍",
+    "brand": "LATIV",
+    "parent_id": "686540110",
+    "sku_url": "https://www.lativ.com.tw/product/686540110",
+    "category": "jeans",
+    "product_name": "軟牛仔九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005003J0Pqf_YS",
+    "color_label": "淡藍",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686540110-中藍",
+    "brand": "LATIV",
+    "parent_id": "686540110",
+    "sku_url": "https://www.lativ.com.tw/product/686540110",
+    "category": "jeans",
+    "product_name": "軟牛仔九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500J46Aqf_ZHS",
+    "color_label": "中藍",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686540110-深藍",
+    "brand": "LATIV",
+    "parent_id": "686540110",
+    "sku_url": "https://www.lativ.com.tw/product/686540110",
+    "category": "jeans",
+    "product_name": "軟牛仔九分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500xKGPqL_YSS",
+    "color_label": "深藍",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72215-淺藍",
+    "brand": "LATIV",
+    "parent_id": "72215",
+    "sku_url": "https://www.lativ.com.tw/product/72215",
+    "category": "jeans",
+    "product_name": "鬆緊牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005009aHEJK_PH",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72215-深藍",
+    "brand": "LATIV",
+    "parent_id": "72215",
+    "sku_url": "https://www.lativ.com.tw/product/72215",
+    "category": "jeans",
+    "product_name": "鬆緊牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500eNSEeK_AS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72215-黑灰",
+    "brand": "LATIV",
+    "parent_id": "72215",
+    "sku_url": "https://www.lativ.com.tw/product/72215",
+    "category": "jeans",
+    "product_name": "鬆緊牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500bBMEeK_AH",
+    "color_label": "黑灰",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702090410-淺藍",
+    "brand": "LATIV",
+    "parent_id": "702090410",
+    "sku_url": "https://www.lativ.com.tw/product/702090410",
+    "category": "jeans",
+    "product_name": "高腰收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500kL5DNDtYH",
+    "color_label": "淺藍",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702090410-藍色",
+    "brand": "LATIV",
+    "parent_id": "702090410",
+    "sku_url": "https://www.lativ.com.tw/product/702090410",
+    "category": "jeans",
+    "product_name": "高腰收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500MyLD0DTYHS",
+    "color_label": "藍色",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702090410-深藍",
+    "brand": "LATIV",
+    "parent_id": "702090410",
+    "sku_url": "https://www.lativ.com.tw/product/702090410",
+    "category": "jeans",
+    "product_name": "高腰收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500z3fC0DtYHS",
+    "color_label": "深藍",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702090410-黑灰",
+    "brand": "LATIV",
+    "parent_id": "702090410",
+    "sku_url": "https://www.lativ.com.tw/product/702090410",
+    "category": "jeans",
+    "product_name": "高腰收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500dcnCNCTZS",
+    "color_label": "黑灰",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702120210-淺藍",
+    "brand": "LATIV",
+    "parent_id": "702120210",
+    "sku_url": "https://www.lativ.com.tw/product/702120210",
+    "category": "jeans",
+    "product_name": "工裝牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500osMoTw3YS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 510,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702120210-藍色",
+    "brand": "LATIV",
+    "parent_id": "702120210",
+    "sku_url": "https://www.lativ.com.tw/product/702120210",
+    "category": "jeans",
+    "product_name": "工裝牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500CqMotwgZS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 510,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68613-淺藍",
+    "brand": "LATIV",
+    "parent_id": "68613",
+    "sku_url": "https://www.lativ.com.tw/product/68613",
+    "category": "jeans",
+    "product_name": "輕量收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500JcUO12YZSS",
+    "color_label": "淺藍",
+    "original_price": 499,
+    "current_price": 399,
+    "full_size_list": [
+      "S"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "lativ-68613-黑灰",
+    "brand": "LATIV",
+    "parent_id": "68613",
+    "sku_url": "https://www.lativ.com.tw/product/68613",
+    "category": "jeans",
+    "product_name": "輕量收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005003Ery21YZS",
+    "color_label": "黑灰",
+    "original_price": 499,
+    "current_price": 399,
+    "full_size_list": [
+      "S"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "lativ-686290210-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686290210",
+    "sku_url": "https://www.lativ.com.tw/product/686290210",
+    "category": "jeans",
+    "product_name": "輕量高腰刷破落地牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Fqhy21ZZHS",
+    "color_label": "淺藍",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686290210-藍色",
+    "brand": "LATIV",
+    "parent_id": "686290210",
+    "sku_url": "https://www.lativ.com.tw/product/686290210",
+    "category": "jeans",
+    "product_name": "輕量高腰刷破落地牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500k99O22ZZS",
+    "color_label": "藍色",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686290210-黑灰",
+    "brand": "LATIV",
+    "parent_id": "686290210",
+    "sku_url": "https://www.lativ.com.tw/product/686290210",
+    "category": "jeans",
+    "product_name": "輕量高腰刷破落地牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005003cWy21YYH",
+    "color_label": "黑灰",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68722-藍色",
+    "brand": "LATIV",
+    "parent_id": "68722",
+    "sku_url": "https://www.lativ.com.tw/product/68722",
+    "category": "jeans",
+    "product_name": "針織牛仔緊身褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500nKu2S2_ZSS",
+    "color_label": "藍色",
+    "original_price": 399,
+    "current_price": 330,
+    "full_size_list": [
+      "M",
+      "XXL"
+    ],
+    "available_list": [
+      "M",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686260210-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686260210",
+    "sku_url": "https://www.lativ.com.tw/product/686260210",
+    "category": "jeans",
+    "product_name": "輕量排釦高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500pLpuG_ZZS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686260210-藍色",
+    "brand": "LATIV",
+    "parent_id": "686260210",
+    "sku_url": "https://www.lativ.com.tw/product/686260210",
+    "category": "jeans",
+    "product_name": "輕量排釦高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500wHhu6_ZYS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686260210-黑灰",
+    "brand": "LATIV",
+    "parent_id": "686260210",
+    "sku_url": "https://www.lativ.com.tw/product/686260210",
+    "category": "jeans",
+    "product_name": "輕量排釦高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Kzh_6uYYSS",
+    "color_label": "黑灰",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70208-藍色",
+    "brand": "LATIV",
+    "parent_id": "70208",
+    "sku_url": "https://www.lativ.com.tw/product/70208",
+    "category": "jeans",
+    "product_name": "保暖修身直筒牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Fp-LRj0YH",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-70208-深藍",
+    "brand": "LATIV",
+    "parent_id": "70208",
+    "sku_url": "https://www.lativ.com.tw/product/70208",
+    "category": "jeans",
+    "product_name": "保暖修身直筒牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500iykLajNZS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-686570110-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686570110",
+    "sku_url": "https://www.lativ.com.tw/product/686570110",
+    "category": "jeans",
+    "product_name": "輕薄軟牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005007nhpCfuZSS",
+    "color_label": "淺藍",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686570110-藍色",
+    "brand": "LATIV",
+    "parent_id": "686570110",
+    "sku_url": "https://www.lativ.com.tw/product/686570110",
+    "category": "jeans",
+    "product_name": "輕薄軟牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500mMkoCL_YH",
+    "color_label": "藍色",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686570110-深藍",
+    "brand": "LATIV",
+    "parent_id": "686570110",
+    "sku_url": "https://www.lativ.com.tw/product/686570110",
+    "category": "jeans",
+    "product_name": "輕薄軟牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/0500050094koCf_ZS",
+    "color_label": "深藍",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70218-藍色",
+    "brand": "LATIV",
+    "parent_id": "70218",
+    "sku_url": "https://www.lativ.com.tw/product/70218",
+    "category": "jeans",
+    "product_name": "鬆緊直筒落地牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500t4wLajNZHS",
+    "color_label": "藍色",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70218-深藍",
+    "brand": "LATIV",
+    "parent_id": "70218",
+    "sku_url": "https://www.lativ.com.tw/product/70218",
+    "category": "jeans",
+    "product_name": "鬆緊直筒落地牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500NDKfRj0YH",
+    "color_label": "深藍",
+    "original_price": 590,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686140410-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686140410",
+    "sku_url": "https://www.lativ.com.tw/product/686140410",
+    "category": "jeans",
+    "product_name": "排釦收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500MJ2sEbHYSS",
+    "color_label": "淺藍",
+    "original_price": 590,
+    "current_price": 499,
+    "full_size_list": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686140410-藍色",
+    "brand": "LATIV",
+    "parent_id": "686140410",
+    "sku_url": "https://www.lativ.com.tw/product/686140410",
+    "category": "jeans",
+    "product_name": "排釦收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500BCusivSYS",
+    "color_label": "藍色",
+    "original_price": 590,
+    "current_price": 499,
+    "full_size_list": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686140410-深藍",
+    "brand": "LATIV",
+    "parent_id": "686140410",
+    "sku_url": "https://www.lativ.com.tw/product/686140410",
+    "category": "jeans",
+    "product_name": "排釦收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500v8usEvSZSS",
+    "color_label": "深藍",
+    "original_price": 590,
+    "current_price": 499,
+    "full_size_list": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686140410-黑灰",
+    "brand": "LATIV",
+    "parent_id": "686140410",
+    "sku_url": "https://www.lativ.com.tw/product/686140410",
+    "category": "jeans",
+    "product_name": "排釦收腹緊身牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500CRlWEbSYS",
+    "color_label": "黑灰",
+    "original_price": 590,
+    "current_price": 499,
+    "full_size_list": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72213-淺藍",
+    "brand": "LATIV",
+    "parent_id": "72213",
+    "sku_url": "https://www.lativ.com.tw/product/72213",
+    "category": "jeans",
+    "product_name": "高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500y87PJw_PHS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72213-藍色",
+    "brand": "LATIV",
+    "parent_id": "72213",
+    "sku_url": "https://www.lativ.com.tw/product/72213",
+    "category": "jeans",
+    "product_name": "高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500GXvPewuPSS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72213-深藍",
+    "brand": "LATIV",
+    "parent_id": "72213",
+    "sku_url": "https://www.lativ.com.tw/product/72213",
+    "category": "jeans",
+    "product_name": "高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005006VbAeK_ASS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686550210-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686550210",
+    "sku_url": "https://www.lativ.com.tw/product/686550210",
+    "category": "jeans",
+    "product_name": "軟牛仔八分寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ZM4oDL_ZS",
+    "color_label": "淺藍",
+    "original_price": 499,
+    "current_price": 399,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686550210-藍色",
+    "brand": "LATIV",
+    "parent_id": "686550210",
+    "sku_url": "https://www.lativ.com.tw/product/686550210",
+    "category": "jeans",
+    "product_name": "軟牛仔八分寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500JV4pDL_ZSS",
+    "color_label": "藍色",
+    "original_price": 499,
+    "current_price": 399,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686550210-深藍",
+    "brand": "LATIV",
+    "parent_id": "686550210",
+    "sku_url": "https://www.lativ.com.tw/product/686550210",
+    "category": "jeans",
+    "product_name": "軟牛仔八分寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500TvrpCf_ZHS",
+    "color_label": "深藍",
+    "original_price": 499,
+    "current_price": 399,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-69533-深藍",
+    "brand": "LATIV",
+    "parent_id": "69533",
+    "sku_url": "https://www.lativ.com.tw/product/69533",
+    "category": "jeans",
+    "product_name": "輕量打褶牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500NPvuudUZH",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "lativ-68627-淺藍",
+    "brand": "LATIV",
+    "parent_id": "68627",
+    "sku_url": "https://www.lativ.com.tw/product/68627",
+    "category": "jeans",
+    "product_name": "輕量鬆緊牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500NMWu6_YZHS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68627-藍色",
+    "brand": "LATIV",
+    "parent_id": "68627",
+    "sku_url": "https://www.lativ.com.tw/product/68627",
+    "category": "jeans",
+    "product_name": "輕量鬆緊牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500u0s_6uYZS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68627-深藍",
+    "brand": "LATIV",
+    "parent_id": "68627",
+    "sku_url": "https://www.lativ.com.tw/product/68627",
+    "category": "jeans",
+    "product_name": "輕量鬆緊牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500RxD_6uZZS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702110110-白色",
+    "brand": "LATIV",
+    "parent_id": "702110110",
+    "sku_url": "https://www.lativ.com.tw/product/702110110",
+    "category": "jeans",
+    "product_name": "多色高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500PjbFTw3ZH",
+    "color_label": "白色",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702110110-淺卡其",
+    "brand": "LATIV",
+    "parent_id": "702110110",
+    "sku_url": "https://www.lativ.com.tw/product/702110110",
+    "category": "jeans",
+    "product_name": "多色高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500yucptw3ZH",
+    "color_label": "淺卡其",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702110110-棕色",
+    "brand": "LATIV",
+    "parent_id": "702110110",
+    "sku_url": "https://www.lativ.com.tw/product/702110110",
+    "category": "jeans",
+    "product_name": "多色高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500EwcpTK3YH",
+    "color_label": "棕色",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702110110-黑色",
+    "brand": "LATIV",
+    "parent_id": "702110110",
+    "sku_url": "https://www.lativ.com.tw/product/702110110",
+    "category": "jeans",
+    "product_name": "多色高腰牛仔寬褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500v8BptK3YHS",
+    "color_label": "黑色",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-722110110-藍色",
+    "brand": "LATIV",
+    "parent_id": "722110110",
+    "sku_url": "https://www.lativ.com.tw/product/722110110",
+    "category": "jeans",
+    "product_name": "靴型牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005006AIAeK_PHS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "available_list": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ]
+  },
+  {
+    "sku_id": "lativ-722110110-深藍",
+    "brand": "LATIV",
+    "parent_id": "722110110",
+    "sku_url": "https://www.lativ.com.tw/product/722110110",
+    "category": "jeans",
+    "product_name": "靴型牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500DqqPewuPH",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "available_list": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ]
+  },
+  {
+    "sku_id": "lativ-722110110-黑灰",
+    "brand": "LATIV",
+    "parent_id": "722110110",
+    "sku_url": "https://www.lativ.com.tw/product/722110110",
+    "category": "jeans",
+    "product_name": "靴型牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500i28PJw_PHS",
+    "color_label": "黑灰",
+    "original_price": 690,
+    "current_price": 650,
+    "full_size_list": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "available_list": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ]
+  },
+  {
+    "sku_id": "lativ-688970110-淺藍",
+    "brand": "LATIV",
+    "parent_id": "688970110",
+    "sku_url": "https://www.lativ.com.tw/product/688970110",
+    "category": "jeans",
+    "product_name": "輕量修身直筒牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500XuGy11YYHS",
+    "color_label": "淺藍",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "27"
+    ],
+    "available_list": [
+      "27"
+    ]
+  },
+  {
+    "sku_id": "lativ-712170210-藍色",
+    "brand": "LATIV",
+    "parent_id": "712170210",
+    "sku_url": "https://www.lativ.com.tw/product/712170210",
+    "category": "jeans",
+    "product_name": "高腰錐形牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005003dYJF9TYHS",
+    "color_label": "藍色",
+    "original_price": null,
+    "current_price": 690,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-712170210-深藍",
+    "brand": "LATIV",
+    "parent_id": "712170210",
+    "sku_url": "https://www.lativ.com.tw/product/712170210",
+    "category": "jeans",
+    "product_name": "高腰錐形牛仔褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500E6YJnkTZHS",
+    "color_label": "深藍",
+    "original_price": null,
+    "current_price": 690,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-695510110-米色",
+    "brand": "LATIV",
+    "parent_id": "695510110",
+    "sku_url": "https://www.lativ.com.tw/product/695510110",
+    "category": "skirt",
+    "product_name": "輕柔點點印花長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500QgVMeQ4YH",
+    "color_label": "米色",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-695510110-黑色",
+    "brand": "LATIV",
+    "parent_id": "695510110",
+    "sku_url": "https://www.lativ.com.tw/product/695510110",
+    "category": "skirt",
+    "product_name": "輕柔點點印花長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500tfKMJQrZHS",
+    "color_label": "黑色",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-702040210-米色",
+    "brand": "LATIV",
+    "parent_id": "702040210",
+    "sku_url": "https://www.lativ.com.tw/product/702040210",
+    "category": "skirt",
+    "product_name": "燈芯絨長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500wOb-OWwYSS",
+    "color_label": "米色",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-702040210-淺灰綠",
+    "brand": "LATIV",
+    "parent_id": "702040210",
+    "sku_url": "https://www.lativ.com.tw/product/702040210",
+    "category": "skirt",
+    "product_name": "燈芯絨長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500gLbhyWKZHS",
+    "color_label": "淺灰綠",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-702040210-灰棕",
+    "brand": "LATIV",
+    "parent_id": "702040210",
+    "sku_url": "https://www.lativ.com.tw/product/702040210",
+    "category": "skirt",
+    "product_name": "燈芯絨長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500oyBkyswYH",
+    "color_label": "灰棕",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-70284-淺棕",
+    "brand": "LATIV",
+    "parent_id": "70284",
+    "sku_url": "https://www.lativ.com.tw/product/70284",
+    "category": "skirt",
+    "product_name": "休閒褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500jeNqkKeYH",
+    "color_label": "淺棕",
+    "original_price": 499,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70284-深藏青",
+    "brand": "LATIV",
+    "parent_id": "70284",
+    "sku_url": "https://www.lativ.com.tw/product/70284",
+    "category": "skirt",
+    "product_name": "休閒褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500oXGIkKJZS",
+    "color_label": "深藏青",
+    "original_price": 499,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-70284-黑色",
+    "brand": "LATIV",
+    "parent_id": "70284",
+    "sku_url": "https://www.lativ.com.tw/product/70284",
+    "category": "skirt",
+    "product_name": "休閒褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500da4zo_cAHS",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702880110-卡其格",
+    "brand": "LATIV",
+    "parent_id": "702880110",
+    "sku_url": "https://www.lativ.com.tw/product/702880110",
+    "category": "skirt",
+    "product_name": "鬆緊格紋中長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500D6uZwZ8ZHS",
+    "color_label": "卡其格",
+    "original_price": 590,
+    "current_price": 399,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-702880110-黑咖格",
+    "brand": "LATIV",
+    "parent_id": "702880110",
+    "sku_url": "https://www.lativ.com.tw/product/702880110",
+    "category": "skirt",
+    "product_name": "鬆緊格紋中長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500UrdZKY8ZHS",
+    "color_label": "黑咖格",
+    "original_price": 590,
+    "current_price": 399,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-70215-藍色",
+    "brand": "LATIV",
+    "parent_id": "70215",
+    "sku_url": "https://www.lativ.com.tw/product/70215",
+    "category": "skirt",
+    "product_name": "牛仔吊帶裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Hm0YWswZSS",
+    "color_label": "藍色",
+    "original_price": 790,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-693640210-藍色",
+    "brand": "LATIV",
+    "parent_id": "693640210",
+    "sku_url": "https://www.lativ.com.tw/product/693640210",
+    "category": "skirt",
+    "product_name": "及膝牛仔裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500BJdeoNUYSS",
+    "color_label": "藍色",
+    "original_price": 590,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-703110310-淺麻灰",
+    "brand": "LATIV",
+    "parent_id": "703110310",
+    "sku_url": "https://www.lativ.com.tw/product/703110310",
+    "category": "skirt",
+    "product_name": "毛絨窄裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500nsI6S4IZSS",
+    "color_label": "淺麻灰",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-703110310-麻花咖",
+    "brand": "LATIV",
+    "parent_id": "703110310",
+    "sku_url": "https://www.lativ.com.tw/product/703110310",
+    "category": "skirt",
+    "product_name": "毛絨窄裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500bl8GHrqZS",
+    "color_label": "麻花咖",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-703110310-深麻灰",
+    "brand": "LATIV",
+    "parent_id": "703110310",
+    "sku_url": "https://www.lativ.com.tw/product/703110310",
+    "category": "skirt",
+    "product_name": "毛絨窄裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500xpmGSrqYSS",
+    "color_label": "深麻灰",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-703110310-黑色",
+    "brand": "LATIV",
+    "parent_id": "703110310",
+    "sku_url": "https://www.lativ.com.tw/product/703110310",
+    "category": "skirt",
+    "product_name": "毛絨窄裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005000wm6H4qYS",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68666-麻花藍",
+    "brand": "LATIV",
+    "parent_id": "68666",
+    "sku_url": "https://www.lativ.com.tw/product/68666",
+    "category": "skirt",
+    "product_name": "棉麻褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500tzv1n1iYSS",
+    "color_label": "麻花藍",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-68666-深灰",
+    "brand": "LATIV",
+    "parent_id": "68666",
+    "sku_url": "https://www.lativ.com.tw/product/68666",
+    "category": "skirt",
+    "product_name": "棉麻褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500kvv2n1iZS",
+    "color_label": "深灰",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-72911-淺藍",
+    "brand": "LATIV",
+    "parent_id": "72911",
+    "sku_url": "https://www.lativ.com.tw/product/72911",
+    "category": "skirt",
+    "product_name": "軟牛仔蛋糕長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500jXFlgB1AHS",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72911-藍色",
+    "brand": "LATIV",
+    "parent_id": "72911",
+    "sku_url": "https://www.lativ.com.tw/product/72911",
+    "category": "skirt",
+    "product_name": "軟牛仔蛋糕長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500w8Fd3c2PSS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72911-深藍",
+    "brand": "LATIV",
+    "parent_id": "72911",
+    "sku_url": "https://www.lativ.com.tw/product/72911",
+    "category": "skirt",
+    "product_name": "軟牛仔蛋糕長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005002apd3B1AS",
+    "color_label": "深藍",
+    "original_price": 690,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-703830110-米色",
+    "brand": "LATIV",
+    "parent_id": "703830110",
+    "sku_url": "https://www.lativ.com.tw/product/703830110",
+    "category": "skirt",
+    "product_name": "柔軟針織長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Tlet1U6YH",
+    "color_label": "米色",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-703830110-麻花米",
+    "brand": "LATIV",
+    "parent_id": "703830110",
+    "sku_url": "https://www.lativ.com.tw/product/703830110",
+    "category": "skirt",
+    "product_name": "柔軟針織長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500kneT1z6ZHS",
+    "color_label": "麻花米",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-703830110-麻灰",
+    "brand": "LATIV",
+    "parent_id": "703830110",
+    "sku_url": "https://www.lativ.com.tw/product/703830110",
+    "category": "skirt",
+    "product_name": "柔軟針織長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500CgJT1UGZS",
+    "color_label": "麻灰",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-703830110-黑色",
+    "brand": "LATIV",
+    "parent_id": "703830110",
+    "sku_url": "https://www.lativ.com.tw/product/703830110",
+    "category": "skirt",
+    "product_name": "柔軟針織長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500vthqmE6YH",
+    "color_label": "黑色",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-695290210-米卡其",
+    "brand": "LATIV",
+    "parent_id": "695290210",
+    "sku_url": "https://www.lativ.com.tw/product/695290210",
+    "category": "skirt",
+    "product_name": "機能彈性工裝長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Fb4MeQrZH",
+    "color_label": "米卡其",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-695290210-灰綠",
+    "brand": "LATIV",
+    "parent_id": "695290210",
+    "sku_url": "https://www.lativ.com.tw/product/695290210",
+    "category": "skirt",
+    "product_name": "機能彈性工裝長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ph5xeQ4YHS",
+    "color_label": "灰綠",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-695290210-深灰",
+    "brand": "LATIV",
+    "parent_id": "695290210",
+    "sku_url": "https://www.lativ.com.tw/product/695290210",
+    "category": "skirt",
+    "product_name": "機能彈性工裝長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ZRfxeQ4YHS",
+    "color_label": "深灰",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-695290210-黑色",
+    "brand": "LATIV",
+    "parent_id": "695290210",
+    "sku_url": "https://www.lativ.com.tw/product/695290210",
+    "category": "skirt",
+    "product_name": "機能彈性工裝長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500yhfxeV4YSS",
+    "color_label": "黑色",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-695290210-灰粉",
+    "brand": "LATIV",
+    "parent_id": "695290210",
+    "sku_url": "https://www.lativ.com.tw/product/695290210",
+    "category": "skirt",
+    "product_name": "機能彈性工裝長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500rIujAq3ZSS",
+    "color_label": "灰粉",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-695290210-灰褐",
+    "brand": "LATIV",
+    "parent_id": "695290210",
+    "sku_url": "https://www.lativ.com.tw/product/695290210",
+    "category": "skirt",
+    "product_name": "機能彈性工裝長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500i2d7AI3YH",
+    "color_label": "灰褐",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-69363-白色",
+    "brand": "LATIV",
+    "parent_id": "69363",
+    "sku_url": "https://www.lativ.com.tw/product/69363",
+    "category": "skirt",
+    "product_name": "壓線多色牛仔長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500W8rCezFYS",
+    "color_label": "白色",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-69363-藍色",
+    "brand": "LATIV",
+    "parent_id": "69363",
+    "sku_url": "https://www.lativ.com.tw/product/69363",
+    "category": "skirt",
+    "product_name": "壓線多色牛仔長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500dmXDeznYS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702160310-淺藍",
+    "brand": "LATIV",
+    "parent_id": "702160310",
+    "sku_url": "https://www.lativ.com.tw/product/702160310",
+    "category": "skirt",
+    "product_name": "工裝牛仔長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500zH_oTw3ZH",
+    "color_label": "淺藍",
+    "original_price": 690,
+    "current_price": 510,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702160310-藍色",
+    "brand": "LATIV",
+    "parent_id": "702160310",
+    "sku_url": "https://www.lativ.com.tw/product/702160310",
+    "category": "skirt",
+    "product_name": "工裝牛仔長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500_h_oTKgZSS",
+    "color_label": "藍色",
+    "original_price": 690,
+    "current_price": 510,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702160310-黑灰",
+    "brand": "LATIV",
+    "parent_id": "702160310",
+    "sku_url": "https://www.lativ.com.tw/product/702160310",
+    "category": "skirt",
+    "product_name": "工裝牛仔長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500rJ_pTK3ZSS",
+    "color_label": "黑灰",
+    "original_price": 690,
+    "current_price": 510,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-69625-淺粉桔",
+    "brand": "LATIV",
+    "parent_id": "69625",
+    "sku_url": "https://www.lativ.com.tw/product/69625",
+    "category": "skirt",
+    "product_name": "輕柔蛋糕長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500OqPuo_XZS",
+    "color_label": "淺粉桔",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-687770410-卡其",
+    "brand": "LATIV",
+    "parent_id": "687770410",
+    "sku_url": "https://www.lativ.com.tw/product/687770410",
+    "category": "skirt",
+    "product_name": "彈力褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500uuTimQYYSS",
+    "color_label": "卡其",
+    "original_price": 399,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-687770410-灰粉",
+    "brand": "LATIV",
+    "parent_id": "687770410",
+    "sku_url": "https://www.lativ.com.tw/product/687770410",
+    "category": "skirt",
+    "product_name": "彈力褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500A7tE8QYZSS",
+    "color_label": "灰粉",
+    "original_price": 399,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-687770410-灰藍",
+    "brand": "LATIV",
+    "parent_id": "687770410",
+    "sku_url": "https://www.lativ.com.tw/product/687770410",
+    "category": "skirt",
+    "product_name": "彈力褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005004c3uMCAZH",
+    "color_label": "灰藍",
+    "original_price": 399,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-687770410-深棕",
+    "brand": "LATIV",
+    "parent_id": "687770410",
+    "sku_url": "https://www.lativ.com.tw/product/687770410",
+    "category": "skirt",
+    "product_name": "彈力褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500zUguMCAZH",
+    "color_label": "深棕",
+    "original_price": 399,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-687770410-黑色",
+    "brand": "LATIV",
+    "parent_id": "687770410",
+    "sku_url": "https://www.lativ.com.tw/product/687770410",
+    "category": "skirt",
+    "product_name": "彈力褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500y8IE8QZZHS",
+    "color_label": "黑色",
+    "original_price": 399,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-712240210-咖啡",
+    "brand": "LATIV",
+    "parent_id": "712240210",
+    "sku_url": "https://www.lativ.com.tw/product/712240210",
+    "category": "skirt",
+    "product_name": "仿毛呢連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500i6fozqIYS",
+    "color_label": "咖啡",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "XL"
+    ],
+    "available_list": [
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-712240210-深灰",
+    "brand": "LATIV",
+    "parent_id": "712240210",
+    "sku_url": "https://www.lativ.com.tw/product/712240210",
+    "category": "skirt",
+    "product_name": "仿毛呢連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500vfnpUIIYSS",
+    "color_label": "深灰",
+    "original_price": 590,
+    "current_price": 550,
+    "full_size_list": [
+      "XL"
+    ],
+    "available_list": [
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-703170210-深麻灰",
+    "brand": "LATIV",
+    "parent_id": "703170210",
+    "sku_url": "https://www.lativ.com.tw/product/703170210",
+    "category": "skirt",
+    "product_name": "磨毛假兩件傘狀裙內搭褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500hRKr3feZHS",
+    "color_label": "深麻灰",
+    "original_price": 499,
+    "current_price": 399,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-703170210-黑色",
+    "brand": "LATIV",
+    "parent_id": "703170210",
+    "sku_url": "https://www.lativ.com.tw/product/703170210",
+    "category": "skirt",
+    "product_name": "磨毛假兩件傘狀裙內搭褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ugwrgfeZH",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 399,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-684880410-杏色",
+    "brand": "LATIV",
+    "parent_id": "684880410",
+    "sku_url": "https://www.lativ.com.tw/product/684880410",
+    "category": "skirt",
+    "product_name": "輕柔寬襬八分裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500FslSaIUYSS",
+    "color_label": "杏色",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-684880410-淺灰藍",
+    "brand": "LATIV",
+    "parent_id": "684880410",
+    "sku_url": "https://www.lativ.com.tw/product/684880410",
+    "category": "skirt",
+    "product_name": "輕柔寬襬八分裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005007blHaqUYS",
+    "color_label": "淺灰藍",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-684880410-淺粉桔",
+    "brand": "LATIV",
+    "parent_id": "684880410",
+    "sku_url": "https://www.lativ.com.tw/product/684880410",
+    "category": "skirt",
+    "product_name": "輕柔寬襬八分裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500qWRSRIzYS",
+    "color_label": "淺粉桔",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-684880410-黑色",
+    "brand": "LATIV",
+    "parent_id": "684880410",
+    "sku_url": "https://www.lativ.com.tw/product/684880410",
+    "category": "skirt",
+    "product_name": "輕柔寬襬八分裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500NvaSRqzYS",
+    "color_label": "黑色",
+    "original_price": 690,
+    "current_price": 550,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-695530110-米色",
+    "brand": "LATIV",
+    "parent_id": "695530110",
+    "sku_url": "https://www.lativ.com.tw/product/695530110",
+    "category": "skirt",
+    "product_name": "輕柔傘狀褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005006pwLUJXYH",
+    "color_label": "米色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-695530110-黑色",
+    "brand": "LATIV",
+    "parent_id": "695530110",
+    "sku_url": "https://www.lativ.com.tw/product/695530110",
+    "category": "skirt",
+    "product_name": "輕柔傘狀褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500fvgLzJ5ZSS",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-683120310-深藍",
+    "brand": "LATIV",
+    "parent_id": "683120310",
+    "sku_url": "https://www.lativ.com.tw/product/683120310",
+    "category": "skirt",
+    "product_name": "彈力傘狀褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500dCb3bnlZHS",
+    "color_label": "深藍",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-683120310-深麻灰",
+    "brand": "LATIV",
+    "parent_id": "683120310",
+    "sku_url": "https://www.lativ.com.tw/product/683120310",
+    "category": "skirt",
+    "product_name": "彈力傘狀褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500riB0vndYHS",
+    "color_label": "深麻灰",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-683120310-黑色",
+    "brand": "LATIV",
+    "parent_id": "683120310",
+    "sku_url": "https://www.lativ.com.tw/product/683120310",
+    "category": "skirt",
+    "product_name": "彈力傘狀褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005007WcNvnlZH",
+    "color_label": "黑色",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-69465-灰杏",
+    "brand": "LATIV",
+    "parent_id": "69465",
+    "sku_url": "https://www.lativ.com.tw/product/69465",
+    "category": "skirt",
+    "product_name": "細褶蛋糕長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500kOG8zxrZHS",
+    "color_label": "灰杏",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-694370210-淺藍",
+    "brand": "LATIV",
+    "parent_id": "694370210",
+    "sku_url": "https://www.lativ.com.tw/product/694370210",
+    "category": "skirt",
+    "product_name": "牛仔工裝連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500WeB5_pnYS",
+    "color_label": "淺藍",
+    "original_price": 650,
+    "current_price": 450,
+    "full_size_list": [
+      "S"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "lativ-694370210-藍色",
+    "brand": "LATIV",
+    "parent_id": "694370210",
+    "sku_url": "https://www.lativ.com.tw/product/694370210",
+    "category": "skirt",
+    "product_name": "牛仔工裝連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500OnHXuonZHS",
+    "color_label": "藍色",
+    "original_price": 650,
+    "current_price": 450,
+    "full_size_list": [
+      "S"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "lativ-694640110-藍色格",
+    "brand": "LATIV",
+    "parent_id": "694640110",
+    "sku_url": "https://www.lativ.com.tw/product/694640110",
+    "category": "skirt",
+    "product_name": "棉質格紋中長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500nGmWEbzYSS",
+    "color_label": "藍色格",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-694640110-黑色格",
+    "brand": "LATIV",
+    "parent_id": "694640110",
+    "sku_url": "https://www.lativ.com.tw/product/694640110",
+    "category": "skirt",
+    "product_name": "棉質格紋中長裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500gEjsibzZHS",
+    "color_label": "黑色格",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-686320310-白色",
+    "brand": "LATIV",
+    "parent_id": "686320310",
+    "sku_url": "https://www.lativ.com.tw/product/686320310",
+    "category": "skirt",
+    "product_name": "多色收腹牛仔連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500lL1cudUYHS",
+    "color_label": "白色",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686320310-卡其",
+    "brand": "LATIV",
+    "parent_id": "686320310",
+    "sku_url": "https://www.lativ.com.tw/product/686320310",
+    "category": "skirt",
+    "product_name": "多色收腹牛仔連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005004J2c_lzYH",
+    "color_label": "卡其",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686320310-粉色",
+    "brand": "LATIV",
+    "parent_id": "686320310",
+    "sku_url": "https://www.lativ.com.tw/product/686320310",
+    "category": "skirt",
+    "product_name": "多色收腹牛仔連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500FRuB_lzZH",
+    "color_label": "粉色",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686320310-黑色",
+    "brand": "LATIV",
+    "parent_id": "686320310",
+    "sku_url": "https://www.lativ.com.tw/product/686320310",
+    "category": "skirt",
+    "product_name": "多色收腹牛仔連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500XbuB_lzZSS",
+    "color_label": "黑色",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686410110-淺粉",
+    "brand": "LATIV",
+    "parent_id": "686410110",
+    "sku_url": "https://www.lativ.com.tw/product/686410110",
+    "category": "skirt",
+    "product_name": "多色牛仔吊帶裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Tm3Hn1iYSS",
+    "color_label": "淺粉",
+    "original_price": 690,
+    "current_price": 490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-702850110-咖啡格",
+    "brand": "LATIV",
+    "parent_id": "702850110",
+    "sku_url": "https://www.lativ.com.tw/product/702850110",
+    "category": "skirt",
+    "product_name": "格紋百褶連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500p9SnEhNYH",
+    "color_label": "咖啡格",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702850110-黑灰格",
+    "brand": "LATIV",
+    "parent_id": "702850110",
+    "sku_url": "https://www.lativ.com.tw/product/702850110",
+    "category": "skirt",
+    "product_name": "格紋百褶連褲短裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500axxnE-NZHS",
+    "color_label": "黑灰格",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68821-深灰藍",
+    "brand": "LATIV",
+    "parent_id": "68821",
+    "sku_url": "https://www.lativ.com.tw/product/68821",
+    "category": "skirt",
+    "product_name": "輕涼羅紋傘狀褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500HoBVAf4YHS",
+    "color_label": "深灰藍",
+    "original_price": 350,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68821-黑色",
+    "brand": "LATIV",
+    "parent_id": "68821",
+    "sku_url": "https://www.lativ.com.tw/product/68821",
+    "category": "skirt",
+    "product_name": "輕涼羅紋傘狀褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500JiSVPLrZH",
+    "color_label": "黑色",
+    "original_price": 350,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-663790110-深棕格",
+    "brand": "LATIV",
+    "parent_id": "663790110",
+    "sku_url": "https://www.lativ.com.tw/product/663790110",
+    "category": "skirt",
+    "product_name": "法蘭絨格紋褲裙-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500bsuq7-TaS",
+    "color_label": "深棕格",
+    "original_price": 450,
+    "current_price": 299,
+    "full_size_list": [
+      "L"
+    ],
+    "available_list": [
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-72374-白色",
+    "brand": "LATIV",
+    "parent_id": "72374",
+    "sku_url": "https://www.lativ.com.tw/product/72374",
+    "category": "shorts",
+    "product_name": "彈力打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500qTyhpaOPSS",
+    "color_label": "白色",
+    "original_price": 199,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72374-卡其",
+    "brand": "LATIV",
+    "parent_id": "72374",
+    "sku_url": "https://www.lativ.com.tw/product/72374",
+    "category": "shorts",
+    "product_name": "彈力打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Y12hpaOAH",
+    "color_label": "卡其",
+    "original_price": 199,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72374-灰綠",
+    "brand": "LATIV",
+    "parent_id": "72374",
+    "sku_url": "https://www.lativ.com.tw/product/72374",
+    "category": "shorts",
+    "product_name": "彈力打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Jz1-pROAH",
+    "color_label": "灰綠",
+    "original_price": 199,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72374-灰粉",
+    "brand": "LATIV",
+    "parent_id": "72374",
+    "sku_url": "https://www.lativ.com.tw/product/72374",
+    "category": "shorts",
+    "product_name": "彈力打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ND1hpaOAH",
+    "color_label": "灰粉",
+    "original_price": 199,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72374-粉藍",
+    "brand": "LATIV",
+    "parent_id": "72374",
+    "sku_url": "https://www.lativ.com.tw/product/72374",
+    "category": "shorts",
+    "product_name": "彈力打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500WT2-paOAH",
+    "color_label": "粉藍",
+    "original_price": 199,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72374-灰藍",
+    "brand": "LATIV",
+    "parent_id": "72374",
+    "sku_url": "https://www.lativ.com.tw/product/72374",
+    "category": "shorts",
+    "product_name": "彈力打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500W2u-payASS",
+    "color_label": "灰藍",
+    "original_price": 199,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72374-深灰",
+    "brand": "LATIV",
+    "parent_id": "72374",
+    "sku_url": "https://www.lativ.com.tw/product/72374",
+    "category": "shorts",
+    "product_name": "彈力打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500VD_hpRyAS",
+    "color_label": "深灰",
+    "original_price": 199,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72374-黑色",
+    "brand": "LATIV",
+    "parent_id": "72374",
+    "sku_url": "https://www.lativ.com.tw/product/72374",
+    "category": "shorts",
+    "product_name": "彈力打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500x8u-oRyPH",
+    "color_label": "黑色",
+    "original_price": 199,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-723140110-米白",
+    "brand": "LATIV",
+    "parent_id": "723140110",
+    "sku_url": "https://www.lativ.com.tw/product/723140110",
+    "category": "shorts",
+    "product_name": "小毛圈口袋短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500kOSjW-OPS",
+    "color_label": "米白",
+    "original_price": 299,
+    "current_price": 220,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-723140110-麻灰",
+    "brand": "LATIV",
+    "parent_id": "723140110",
+    "sku_url": "https://www.lativ.com.tw/product/723140110",
+    "category": "shorts",
+    "product_name": "小毛圈口袋短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500-zH7W-yASS",
+    "color_label": "麻灰",
+    "original_price": 299,
+    "current_price": 220,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-723140110-深粉",
+    "brand": "LATIV",
+    "parent_id": "723140110",
+    "sku_url": "https://www.lativ.com.tw/product/723140110",
+    "category": "shorts",
+    "product_name": "小毛圈口袋短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005005WSjW-yAHS",
+    "color_label": "深粉",
+    "original_price": 299,
+    "current_price": 220,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-723140110-藍色",
+    "brand": "LATIV",
+    "parent_id": "723140110",
+    "sku_url": "https://www.lativ.com.tw/product/723140110",
+    "category": "shorts",
+    "product_name": "小毛圈口袋短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500J1x7s-yASS",
+    "color_label": "藍色",
+    "original_price": 299,
+    "current_price": 220,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-723140110-灰綠",
+    "brand": "LATIV",
+    "parent_id": "723140110",
+    "sku_url": "https://www.lativ.com.tw/product/723140110",
+    "category": "shorts",
+    "product_name": "小毛圈口袋短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500A4x7WhyAHS",
+    "color_label": "灰綠",
+    "original_price": 299,
+    "current_price": 220,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-723140110-深紫",
+    "brand": "LATIV",
+    "parent_id": "723140110",
+    "sku_url": "https://www.lativ.com.tw/product/723140110",
+    "category": "shorts",
+    "product_name": "小毛圈口袋短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005002Ix7WhyPS",
+    "color_label": "深紫",
+    "original_price": 299,
+    "current_price": 220,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-723140110-深藍",
+    "brand": "LATIV",
+    "parent_id": "723140110",
+    "sku_url": "https://www.lativ.com.tw/product/723140110",
+    "category": "shorts",
+    "product_name": "小毛圈口袋短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Y_y7s-yAH",
+    "color_label": "深藍",
+    "original_price": 299,
+    "current_price": 220,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-723140110-黑色",
+    "brand": "LATIV",
+    "parent_id": "723140110",
+    "sku_url": "https://www.lativ.com.tw/product/723140110",
+    "category": "shorts",
+    "product_name": "小毛圈口袋短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/0500050045O7WhyPHS",
+    "color_label": "黑色",
+    "original_price": 299,
+    "current_price": 220,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-69372-米卡其",
+    "brand": "LATIV",
+    "parent_id": "69372",
+    "sku_url": "https://www.lativ.com.tw/product/69372",
+    "category": "shorts",
+    "product_name": "棉麻打褶五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500XRA5hLrYS",
+    "color_label": "米卡其",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-69372-桔色",
+    "brand": "LATIV",
+    "parent_id": "69372",
+    "sku_url": "https://www.lativ.com.tw/product/69372",
+    "category": "shorts",
+    "product_name": "棉麻打褶五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ZJAX-f4YHS",
+    "color_label": "桔色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "lativ-687180310-卡其",
+    "brand": "LATIV",
+    "parent_id": "687180310",
+    "sku_url": "https://www.lativ.com.tw/product/687180310",
+    "category": "shorts",
+    "product_name": "打褶西裝五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005004bc0ExfZH",
+    "color_label": "卡其",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687180310-黑色",
+    "brand": "LATIV",
+    "parent_id": "687180310",
+    "sku_url": "https://www.lativ.com.tw/product/687180310",
+    "category": "shorts",
+    "product_name": "打褶西裝五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Yg2C19XYHS",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686860410-淺灰杏",
+    "brand": "LATIV",
+    "parent_id": "686860410",
+    "sku_url": "https://www.lativ.com.tw/product/686860410",
+    "category": "shorts",
+    "product_name": "棉質輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500uis5i9aYH",
+    "color_label": "淺灰杏",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686860410-黃色",
+    "brand": "LATIV",
+    "parent_id": "686860410",
+    "sku_url": "https://www.lativ.com.tw/product/686860410",
+    "category": "shorts",
+    "product_name": "棉質輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500zNsXi9aYHS",
+    "color_label": "黃色",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686860410-卡其",
+    "brand": "LATIV",
+    "parent_id": "686860410",
+    "sku_url": "https://www.lativ.com.tw/product/686860410",
+    "category": "shorts",
+    "product_name": "棉質輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500uyC5ikRZH",
+    "color_label": "卡其",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686860410-灰綠",
+    "brand": "LATIV",
+    "parent_id": "686860410",
+    "sku_url": "https://www.lativ.com.tw/product/686860410",
+    "category": "shorts",
+    "product_name": "棉質輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500D3DXEkRYSS",
+    "color_label": "灰綠",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686860410-粉色",
+    "brand": "LATIV",
+    "parent_id": "686860410",
+    "sku_url": "https://www.lativ.com.tw/product/686860410",
+    "category": "shorts",
+    "product_name": "棉質輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500HSVXi9RYH",
+    "color_label": "粉色",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686860410-灰藍",
+    "brand": "LATIV",
+    "parent_id": "686860410",
+    "sku_url": "https://www.lativ.com.tw/product/686860410",
+    "category": "shorts",
+    "product_name": "棉質輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Q5V5ikRYHS",
+    "color_label": "灰藍",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686860410-深藍",
+    "brand": "LATIV",
+    "parent_id": "686860410",
+    "sku_url": "https://www.lativ.com.tw/product/686860410",
+    "category": "shorts",
+    "product_name": "棉質輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500UJVXi9aZSS",
+    "color_label": "深藍",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686860410-深灰",
+    "brand": "LATIV",
+    "parent_id": "686860410",
+    "sku_url": "https://www.lativ.com.tw/product/686860410",
+    "category": "shorts",
+    "product_name": "棉質輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500V2K5E9aZH",
+    "color_label": "深灰",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686860410-黑色",
+    "brand": "LATIV",
+    "parent_id": "686860410",
+    "sku_url": "https://www.lativ.com.tw/product/686860410",
+    "category": "shorts",
+    "product_name": "棉質輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500EfwXEkaYH",
+    "color_label": "黑色",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-644400410-棕桔",
+    "brand": "LATIV",
+    "parent_id": "644400410",
+    "sku_url": "https://www.lativ.com.tw/product/644400410",
+    "category": "shorts",
+    "product_name": "卡其短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500q9tmSpYZHS",
+    "color_label": "棕桔",
+    "original_price": 499,
+    "current_price": 249,
+    "full_size_list": [
+      "M"
+    ],
+    "available_list": [
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-644400410-軍綠",
+    "brand": "LATIV",
+    "parent_id": "644400410",
+    "sku_url": "https://www.lativ.com.tw/product/644400410",
+    "category": "shorts",
+    "product_name": "卡其短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500DOqmHoYYS",
+    "color_label": "軍綠",
+    "original_price": 499,
+    "current_price": 249,
+    "full_size_list": [
+      "M"
+    ],
+    "available_list": [
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-68638-淺藍",
+    "brand": "LATIV",
+    "parent_id": "68638",
+    "sku_url": "https://www.lativ.com.tw/product/68638",
+    "category": "shorts",
+    "product_name": "針織牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500-Gzc_lzYH",
+    "color_label": "淺藍",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68638-藍色",
+    "brand": "LATIV",
+    "parent_id": "68638",
+    "sku_url": "https://www.lativ.com.tw/product/68638",
+    "category": "shorts",
+    "product_name": "針織牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500wprB_lzYS",
+    "color_label": "藍色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686620410-米卡其",
+    "brand": "LATIV",
+    "parent_id": "686620410",
+    "sku_url": "https://www.lativ.com.tw/product/686620410",
+    "category": "shorts",
+    "product_name": "棉麻短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500iWCDAf4YHS",
+    "color_label": "米卡其",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686620410-卡其",
+    "brand": "LATIV",
+    "parent_id": "686620410",
+    "sku_url": "https://www.lativ.com.tw/product/686620410",
+    "category": "shorts",
+    "product_name": "棉麻短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500SSQDPLrZHS",
+    "color_label": "卡其",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686620410-淺綠",
+    "brand": "LATIV",
+    "parent_id": "686620410",
+    "sku_url": "https://www.lativ.com.tw/product/686620410",
+    "category": "shorts",
+    "product_name": "棉麻短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500NUQDPL4ZHS",
+    "color_label": "淺綠",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686620410-粉色",
+    "brand": "LATIV",
+    "parent_id": "686620410",
+    "sku_url": "https://www.lativ.com.tw/product/686620410",
+    "category": "shorts",
+    "product_name": "棉麻短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500d8QCAfrZS",
+    "color_label": "粉色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686620410-藏青",
+    "brand": "LATIV",
+    "parent_id": "686620410",
+    "sku_url": "https://www.lativ.com.tw/product/686620410",
+    "category": "shorts",
+    "product_name": "棉麻短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005002CwCPf4ZSS",
+    "color_label": "藏青",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-694300210-米杏",
+    "brand": "LATIV",
+    "parent_id": "694300210",
+    "sku_url": "https://www.lativ.com.tw/product/694300210",
+    "category": "shorts",
+    "product_name": "棉質休閒短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500QGLX-f4YSS",
+    "color_label": "米杏",
+    "original_price": 399,
+    "current_price": 249,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-694300210-卡其",
+    "brand": "LATIV",
+    "parent_id": "694300210",
+    "sku_url": "https://www.lativ.com.tw/product/694300210",
+    "category": "shorts",
+    "product_name": "棉質休閒短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500PyF5-frZS",
+    "color_label": "卡其",
+    "original_price": 399,
+    "current_price": 249,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-694300210-粉色",
+    "brand": "LATIV",
+    "parent_id": "694300210",
+    "sku_url": "https://www.lativ.com.tw/product/694300210",
+    "category": "shorts",
+    "product_name": "棉質休閒短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ignXhL4ZSS",
+    "color_label": "粉色",
+    "original_price": 399,
+    "current_price": 249,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-694300210-藍黑",
+    "brand": "LATIV",
+    "parent_id": "694300210",
+    "sku_url": "https://www.lativ.com.tw/product/694300210",
+    "category": "shorts",
+    "product_name": "棉質休閒短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500pSo5hfrZSS",
+    "color_label": "藍黑",
+    "original_price": 399,
+    "current_price": 249,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686310510-白色",
+    "brand": "LATIV",
+    "parent_id": "686310510",
+    "sku_url": "https://www.lativ.com.tw/product/686310510",
+    "category": "shorts",
+    "product_name": "多色牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500d41jeoZZHS",
+    "color_label": "白色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686310510-卡其",
+    "brand": "LATIV",
+    "parent_id": "686310510",
+    "sku_url": "https://www.lativ.com.tw/product/686310510",
+    "category": "shorts",
+    "product_name": "多色牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500uG27eoYZH",
+    "color_label": "卡其",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686310510-粉色",
+    "brand": "LATIV",
+    "parent_id": "686310510",
+    "sku_url": "https://www.lativ.com.tw/product/686310510",
+    "category": "shorts",
+    "product_name": "多色牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500YE_7eoZZSS",
+    "color_label": "粉色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686310510-灰綠",
+    "brand": "LATIV",
+    "parent_id": "686310510",
+    "sku_url": "https://www.lativ.com.tw/product/686310510",
+    "category": "shorts",
+    "product_name": "多色牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500NDujJpZYHS",
+    "color_label": "灰綠",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686310510-可可棕",
+    "brand": "LATIV",
+    "parent_id": "686310510",
+    "sku_url": "https://www.lativ.com.tw/product/686310510",
+    "category": "shorts",
+    "product_name": "多色牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500BvujJpZYH",
+    "color_label": "可可棕",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686310510-黑色",
+    "brand": "LATIV",
+    "parent_id": "686310510",
+    "sku_url": "https://www.lativ.com.tw/product/686310510",
+    "category": "shorts",
+    "product_name": "多色牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500pAl7epYZSS",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686310510-深灰",
+    "brand": "LATIV",
+    "parent_id": "686310510",
+    "sku_url": "https://www.lativ.com.tw/product/686310510",
+    "category": "shorts",
+    "product_name": "多色牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500iUJ3AXRPHS",
+    "color_label": "深灰",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72317-淺麻灰",
+    "brand": "LATIV",
+    "parent_id": "72317",
+    "sku_url": "https://www.lativ.com.tw/product/72317",
+    "category": "shorts",
+    "product_name": "毛圈五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500_By9nW1ASS",
+    "color_label": "淺麻灰",
+    "original_price": 350,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72317-粉桔",
+    "brand": "LATIV",
+    "parent_id": "72317",
+    "sku_url": "https://www.lativ.com.tw/product/72317",
+    "category": "shorts",
+    "product_name": "毛圈五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500UaO9FW2PS",
+    "color_label": "粉桔",
+    "original_price": 350,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72317-天藍",
+    "brand": "LATIV",
+    "parent_id": "72317",
+    "sku_url": "https://www.lativ.com.tw/product/72317",
+    "category": "shorts",
+    "product_name": "毛圈五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500mGykFs1AS",
+    "color_label": "天藍",
+    "original_price": 350,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72317-深藍",
+    "brand": "LATIV",
+    "parent_id": "72317",
+    "sku_url": "https://www.lativ.com.tw/product/72317",
+    "category": "shorts",
+    "product_name": "毛圈五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005009r29FW2PSS",
+    "color_label": "深藍",
+    "original_price": 350,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72317-黑色",
+    "brand": "LATIV",
+    "parent_id": "72317",
+    "sku_url": "https://www.lativ.com.tw/product/72317",
+    "category": "shorts",
+    "product_name": "毛圈五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500NQ19Fs2AHS",
+    "color_label": "黑色",
+    "original_price": 350,
+    "current_price": 299,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-683750110-粉紅格",
+    "brand": "LATIV",
+    "parent_id": "683750110",
+    "sku_url": "https://www.lativ.com.tw/product/683750110",
+    "category": "shorts",
+    "product_name": "迪士尼系列嫘縈短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500vsGxHSXZSS",
+    "color_label": "粉紅格",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-683750110-黃色格",
+    "brand": "LATIV",
+    "parent_id": "683750110",
+    "sku_url": "https://www.lativ.com.tw/product/683750110",
+    "category": "shorts",
+    "product_name": "迪士尼系列嫘縈短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500q76xSS5YSS",
+    "color_label": "黃色格",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-682980610-米白",
+    "brand": "LATIV",
+    "parent_id": "682980610",
+    "sku_url": "https://www.lativ.com.tw/product/682980610",
+    "category": "shorts",
+    "product_name": "小毛圈印花短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Msi_6_YZSS",
+    "color_label": "米白",
+    "original_price": 299,
+    "current_price": 249,
+    "full_size_list": [
+      "XXL"
+    ],
+    "available_list": [
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-682980610-麻灰",
+    "brand": "LATIV",
+    "parent_id": "682980610",
+    "sku_url": "https://www.lativ.com.tw/product/682980610",
+    "category": "shorts",
+    "product_name": "小毛圈印花短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005006fUu6uYZSS",
+    "color_label": "麻灰",
+    "original_price": 299,
+    "current_price": 249,
+    "full_size_list": [
+      "XXL"
+    ],
+    "available_list": [
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-682980610-玫紅",
+    "brand": "LATIV",
+    "parent_id": "682980610",
+    "sku_url": "https://www.lativ.com.tw/product/682980610",
+    "category": "shorts",
+    "product_name": "小毛圈印花短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500w_ru6_YZHS",
+    "color_label": "玫紅",
+    "original_price": 299,
+    "current_price": 249,
+    "full_size_list": [
+      "XXL"
+    ],
+    "available_list": [
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-682980610-灰藍",
+    "brand": "LATIV",
+    "parent_id": "682980610",
+    "sku_url": "https://www.lativ.com.tw/product/682980610",
+    "category": "shorts",
+    "product_name": "小毛圈印花短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Tt4u6uZYH",
+    "color_label": "灰藍",
+    "original_price": 299,
+    "current_price": 249,
+    "full_size_list": [
+      "XXL"
+    ],
+    "available_list": [
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-682980610-黑色",
+    "brand": "LATIV",
+    "parent_id": "682980610",
+    "sku_url": "https://www.lativ.com.tw/product/682980610",
+    "category": "shorts",
+    "product_name": "小毛圈印花短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ia5_6uYZSS",
+    "color_label": "黑色",
+    "original_price": 299,
+    "current_price": 249,
+    "full_size_list": [
+      "XXL"
+    ],
+    "available_list": [
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-64438-淺灰綠",
+    "brand": "LATIV",
+    "parent_id": "64438",
+    "sku_url": "https://www.lativ.com.tw/product/64438",
+    "category": "shorts",
+    "product_name": "羅紋緊帶五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500jwPmHoYZSS",
+    "color_label": "淺灰綠",
+    "original_price": 499,
+    "current_price": 299,
+    "full_size_list": [
+      "S"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "lativ-687780410-米卡其",
+    "brand": "LATIV",
+    "parent_id": "687780410",
+    "sku_url": "https://www.lativ.com.tw/product/687780410",
+    "category": "shorts",
+    "product_name": "涼感短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500-CP2HnAZS",
+    "color_label": "米卡其",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687780410-灰紫",
+    "brand": "LATIV",
+    "parent_id": "687780410",
+    "sku_url": "https://www.lativ.com.tw/product/687780410",
+    "category": "shorts",
+    "product_name": "涼感短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500uPi1SFPZS",
+    "color_label": "灰紫",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687780410-深灰藍",
+    "brand": "LATIV",
+    "parent_id": "687780410",
+    "sku_url": "https://www.lativ.com.tw/product/687780410",
+    "category": "shorts",
+    "product_name": "涼感短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500ikE2HFAZHS",
+    "color_label": "深灰藍",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687780410-暖灰",
+    "brand": "LATIV",
+    "parent_id": "687780410",
+    "sku_url": "https://www.lativ.com.tw/product/687780410",
+    "category": "shorts",
+    "product_name": "涼感短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500afz1HnAYH",
+    "color_label": "暖灰",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687780410-黑色",
+    "brand": "LATIV",
+    "parent_id": "687780410",
+    "sku_url": "https://www.lativ.com.tw/product/687780410",
+    "category": "shorts",
+    "product_name": "涼感短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005000gz1HFPYH",
+    "color_label": "黑色",
+    "original_price": 299,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72602-杏色",
+    "brand": "LATIV",
+    "parent_id": "72602",
+    "sku_url": "https://www.lativ.com.tw/product/72602",
+    "category": "shorts",
+    "product_name": "輕涼羅紋木耳邊短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500oIURmdOPH",
+    "color_label": "杏色",
+    "original_price": 249,
+    "current_price": 199,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72602-粉紫",
+    "brand": "LATIV",
+    "parent_id": "72602",
+    "sku_url": "https://www.lativ.com.tw/product/72602",
+    "category": "shorts",
+    "product_name": "輕涼羅紋木耳邊短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500DO4a8dOAS",
+    "color_label": "粉紫",
+    "original_price": 249,
+    "current_price": 199,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72602-灰藍",
+    "brand": "LATIV",
+    "parent_id": "72602",
+    "sku_url": "https://www.lativ.com.tw/product/72602",
+    "category": "shorts",
+    "product_name": "輕涼羅紋木耳邊短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Bt4a8lyASS",
+    "color_label": "灰藍",
+    "original_price": 249,
+    "current_price": 199,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72602-灰卡其",
+    "brand": "LATIV",
+    "parent_id": "72602",
+    "sku_url": "https://www.lativ.com.tw/product/72602",
+    "category": "shorts",
+    "product_name": "輕涼羅紋木耳邊短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500es5RmlOAHS",
+    "color_label": "灰卡其",
+    "original_price": 249,
+    "current_price": 199,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72602-深灰藍",
+    "brand": "LATIV",
+    "parent_id": "72602",
+    "sku_url": "https://www.lativ.com.tw/product/72602",
+    "category": "shorts",
+    "product_name": "輕涼羅紋木耳邊短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500IT5RmdyPSS",
+    "color_label": "深灰藍",
+    "original_price": 249,
+    "current_price": 199,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-72602-黑色",
+    "brand": "LATIV",
+    "parent_id": "72602",
+    "sku_url": "https://www.lativ.com.tw/product/72602",
+    "category": "shorts",
+    "product_name": "輕涼羅紋木耳邊短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500k1La8lyPSS",
+    "color_label": "黑色",
+    "original_price": 249,
+    "current_price": 199,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687760210-千鳥格",
+    "brand": "LATIV",
+    "parent_id": "687760210",
+    "sku_url": "https://www.lativ.com.tw/product/687760210",
+    "category": "shorts",
+    "product_name": "彈力格紋打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500bk6veMPYH",
+    "color_label": "千鳥格",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687760210-黑白細格",
+    "brand": "LATIV",
+    "parent_id": "687760210",
+    "sku_url": "https://www.lativ.com.tw/product/687760210",
+    "category": "shorts",
+    "product_name": "彈力格紋打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500g1ebexAYS",
+    "color_label": "黑白細格",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-687760210-黑灰白格",
+    "brand": "LATIV",
+    "parent_id": "687760210",
+    "sku_url": "https://www.lativ.com.tw/product/687760210",
+    "category": "shorts",
+    "product_name": "彈力格紋打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005003nJbeMAYH",
+    "color_label": "黑灰白格",
+    "original_price": 249,
+    "current_price": 196,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68637-淺藍",
+    "brand": "LATIV",
+    "parent_id": "68637",
+    "sku_url": "https://www.lativ.com.tw/product/68637",
+    "category": "shorts",
+    "product_name": "牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500A2I2F1iZS",
+    "color_label": "淺藍",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "22",
+      "24",
+      "25",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "22",
+      "24",
+      "25",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-68637-藍色",
+    "brand": "LATIV",
+    "parent_id": "68637",
+    "sku_url": "https://www.lativ.com.tw/product/68637",
+    "category": "shorts",
+    "product_name": "牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500tsq2n1iZH",
+    "color_label": "藍色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "22",
+      "24",
+      "25",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "22",
+      "24",
+      "25",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-68637-深藍",
+    "brand": "LATIV",
+    "parent_id": "68637",
+    "sku_url": "https://www.lativ.com.tw/product/68637",
+    "category": "shorts",
+    "product_name": "牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500Vdm1n2EYHS",
+    "color_label": "深藍",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "22",
+      "24",
+      "25",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "available_list": [
+      "22",
+      "24",
+      "25",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "sku_id": "lativ-686880110-卡其",
+    "brand": "LATIV",
+    "parent_id": "686880110",
+    "sku_url": "https://www.lativ.com.tw/product/686880110",
+    "category": "shorts",
+    "product_name": "卡其五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500AsvodvdYSS",
+    "color_label": "卡其",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686880110-粉色",
+    "brand": "LATIV",
+    "parent_id": "686880110",
+    "sku_url": "https://www.lativ.com.tw/product/686880110",
+    "category": "shorts",
+    "product_name": "卡其五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500NIvpdbdZS",
+    "color_label": "粉色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686880110-淺湖綠",
+    "brand": "LATIV",
+    "parent_id": "686880110",
+    "sku_url": "https://www.lativ.com.tw/product/686880110",
+    "category": "shorts",
+    "product_name": "卡其五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500J5B-dvdZSS",
+    "color_label": "淺湖綠",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686880110-深灰藍",
+    "brand": "LATIV",
+    "parent_id": "686880110",
+    "sku_url": "https://www.lativ.com.tw/product/686880110",
+    "category": "shorts",
+    "product_name": "卡其五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500-0c-dblZSS",
+    "color_label": "深灰藍",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686880110-深灰",
+    "brand": "LATIV",
+    "parent_id": "686880110",
+    "sku_url": "https://www.lativ.com.tw/product/686880110",
+    "category": "shorts",
+    "product_name": "卡其五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500vSShlblZSS",
+    "color_label": "深灰",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686880110-黑色",
+    "brand": "LATIV",
+    "parent_id": "686880110",
+    "sku_url": "https://www.lativ.com.tw/product/686880110",
+    "category": "shorts",
+    "product_name": "卡其五分褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500rUShlblYSS",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702870210-灰色",
+    "brand": "LATIV",
+    "parent_id": "702870210",
+    "sku_url": "https://www.lativ.com.tw/product/702870210",
+    "category": "shorts",
+    "product_name": "仿毛呢短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500bVAAcetZHS",
+    "color_label": "灰色",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-702870210-黑色",
+    "brand": "LATIV",
+    "parent_id": "702870210",
+    "sku_url": "https://www.lativ.com.tw/product/702870210",
+    "category": "shorts",
+    "product_name": "仿毛呢短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500lAEPcJTYSS",
+    "color_label": "黑色",
+    "original_price": 590,
+    "current_price": 450,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686360210-淺藍",
+    "brand": "LATIV",
+    "parent_id": "686360210",
+    "sku_url": "https://www.lativ.com.tw/product/686360210",
+    "category": "shorts",
+    "product_name": "純棉牛仔輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500FdPB_dzYSS",
+    "color_label": "淺藍",
+    "original_price": 399,
+    "current_price": 249,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686360210-藍色",
+    "brand": "LATIV",
+    "parent_id": "686360210",
+    "sku_url": "https://www.lativ.com.tw/product/686360210",
+    "category": "shorts",
+    "product_name": "純棉牛仔輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500--AB_lUZSS",
+    "color_label": "藍色",
+    "original_price": 399,
+    "current_price": 249,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686360210-深藍",
+    "brand": "LATIV",
+    "parent_id": "686360210",
+    "sku_url": "https://www.lativ.com.tw/product/686360210",
+    "category": "shorts",
+    "product_name": "純棉牛仔輕便短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500QuiB_dUZH",
+    "color_label": "深藍",
+    "original_price": 399,
+    "current_price": 249,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-68712-深麻灰",
+    "brand": "LATIV",
+    "parent_id": "68712",
+    "sku_url": "https://www.lativ.com.tw/product/68712",
+    "category": "shorts",
+    "product_name": "休閒打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/050005003PEm4TRZHS",
+    "color_label": "深麻灰",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "M"
+    ],
+    "available_list": [
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-68712-黑色",
+    "brand": "LATIV",
+    "parent_id": "68712",
+    "sku_url": "https://www.lativ.com.tw/product/68712",
+    "category": "shorts",
+    "product_name": "休閒打褶短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500YDi8rTaYS",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "M"
+    ],
+    "available_list": [
+      "M"
+    ]
+  },
+  {
+    "sku_id": "lativ-686400210-白色",
+    "brand": "LATIV",
+    "parent_id": "686400210",
+    "sku_url": "https://www.lativ.com.tw/product/686400210",
+    "category": "shorts",
+    "product_name": "壓線多色高腰牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500KofB_dzYSS",
+    "color_label": "白色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686400210-卡其",
+    "brand": "LATIV",
+    "parent_id": "686400210",
+    "sku_url": "https://www.lativ.com.tw/product/686400210",
+    "category": "shorts",
+    "product_name": "壓線多色高腰牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500smLBudUZH",
+    "color_label": "卡其",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "lativ-686400210-黑色",
+    "brand": "LATIV",
+    "parent_id": "686400210",
+    "sku_url": "https://www.lativ.com.tw/product/686400210",
+    "category": "shorts",
+    "product_name": "壓線多色高腰牛仔短褲-女",
+    "img_path": "https://cdx.lativ.com.tw/upload-v1/05000500BpFB_lUZSS",
+    "color_label": "黑色",
+    "original_price": 499,
+    "current_price": 350,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  }
+]

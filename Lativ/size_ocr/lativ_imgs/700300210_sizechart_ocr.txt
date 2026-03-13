@@ -1,0 +1,8 @@
+Ris hada Mite K(RFB)
+S 84 96 63
+
+M 88 o/ 65
+
+L 93 98 6/7
+
+XL 98 59 69

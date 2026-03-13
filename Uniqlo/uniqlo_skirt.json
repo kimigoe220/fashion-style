@@ -1,0 +1,1746 @@
+[
+  {
+    "sku_id": "uniqlo-u0000000052202-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052202",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052202",
+    "category": "skirt",
+    "product_name": "女裝/男女適穿 寬褲 479698",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052202/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052202-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052202",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052202",
+    "category": "skirt",
+    "product_name": "女裝/男女適穿 寬褲 479698",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052202/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052202-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052202",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052202",
+    "category": "skirt",
+    "product_name": "女裝/男女適穿 寬褲 479698",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052202/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052381-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052381",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052381",
+    "category": "skirt",
+    "product_name": "女裝 寬褲 479399",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052381/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052381-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052381",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052381",
+    "category": "skirt",
+    "product_name": "女裝 寬褲 479399",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052381/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052381-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052381",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052381",
+    "category": "skirt",
+    "product_name": "女裝 寬褲 479399",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052381/sku/561/COL56.jpg",
+    "color_label": "OLIVE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053175-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053175",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053175",
+    "category": "skirt",
+    "product_name": "女裝 百褶褲裙 483766",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053175/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053175-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053175",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053175",
+    "category": "skirt",
+    "product_name": "女裝 百褶褲裙 483766",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053175/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053175-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053175",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053175",
+    "category": "skirt",
+    "product_name": "女裝 百褶褲裙 483766",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053175/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053175-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053175",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053175",
+    "category": "skirt",
+    "product_name": "女裝 百褶褲裙 483766",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053175/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051841-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051841",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051841",
+    "category": "skirt",
+    "product_name": "女裝 褲裙 479662",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051841/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051841-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051841",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051841",
+    "category": "skirt",
+    "product_name": "女裝 褲裙 479662",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051841/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051841-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051841",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051841",
+    "category": "skirt",
+    "product_name": "女裝 褲裙 479662",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051841/sku/561/COL35.jpg",
+    "color_label": "BROWN",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053102-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053102",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053102",
+    "category": "skirt",
+    "product_name": "女裝 開衩褲裙 485473",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053102/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053102-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053102",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053102",
+    "category": "skirt",
+    "product_name": "女裝 開衩褲裙 485473",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053102/sku/561/COL05.jpg",
+    "color_label": "GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053102-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053102",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053102",
+    "category": "skirt",
+    "product_name": "女裝 開衩褲裙 485473",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053102/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051834-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051834",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051834",
+    "category": "skirt",
+    "product_name": "女裝 百褶褲裙 480302",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051834/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051834-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051834",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051834",
+    "category": "skirt",
+    "product_name": "女裝 百褶褲裙 480302",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051834/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053366-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053366",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053366",
+    "category": "skirt",
+    "product_name": "女裝 百褶褲裙 480302",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053366/sku/561/COL34.jpg",
+    "color_label": "BROWN",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052429-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052429",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052429",
+    "category": "skirt",
+    "product_name": "女裝 DRY休閒窄版長裙 485599",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052429/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052429-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052429",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052429",
+    "category": "skirt",
+    "product_name": "女裝 DRY休閒窄版長裙 485599",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052429/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052429-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052429",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052429",
+    "category": "skirt",
+    "product_name": "女裝 DRY休閒窄版長裙 485599",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052429/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052640-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052640",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052640",
+    "category": "skirt",
+    "product_name": "女裝 短裙 479768",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052640/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052640-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052640",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052640",
+    "category": "skirt",
+    "product_name": "女裝 短裙 479768",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052640/sku/561/COL19.jpg",
+    "color_label": "WINE",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052640-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052640",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052640",
+    "category": "skirt",
+    "product_name": "女裝 短裙 479768",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052640/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051527-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051527",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051527",
+    "category": "skirt",
+    "product_name": "女裝 可機洗米蘭羅紋寬襬裙 478325",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051527/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051527-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051527",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051527",
+    "category": "skirt",
+    "product_name": "女裝 可機洗米蘭羅紋寬襬裙 478325",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051527/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000051527-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051527",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051527",
+    "category": "skirt",
+    "product_name": "女裝 可機洗米蘭羅紋寬襬裙 478325",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051527/sku/561/COL35.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000051527-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051527",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051527",
+    "category": "skirt",
+    "product_name": "女裝 可機洗米蘭羅紋寬襬裙 478325",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051527/sku/561/COL66.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053099-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053099",
+    "category": "skirt",
+    "product_name": "女裝 魚尾長裙 484853",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053099/sku/561/COL56.jpg",
+    "color_label": "OLIVE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053099-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053099",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053099",
+    "category": "skirt",
+    "product_name": "女裝 魚尾長裙 484853",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053099/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053096-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053096",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053096",
+    "category": "skirt",
+    "product_name": "女裝 魚尾長裙(印花) 485714",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053096/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053096-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053096",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053096",
+    "category": "skirt",
+    "product_name": "女裝 魚尾長裙(印花) 485714",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053096/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052479-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052479",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052479",
+    "category": "skirt",
+    "product_name": "女裝 燈芯絨短裙 480128",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052479/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052479-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052479",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052479",
+    "category": "skirt",
+    "product_name": "女裝 燈芯絨短裙 480128",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052479/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052479-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052479",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052479",
+    "category": "skirt",
+    "product_name": "女裝 燈芯絨短裙 480128",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052479/sku/561/COL54.jpg",
+    "color_label": "GREEN",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052479-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052479",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052479",
+    "category": "skirt",
+    "product_name": "女裝 燈芯絨短裙 480128",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052479/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000053345-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053345",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053345",
+    "category": "skirt",
+    "product_name": "女裝 棉質中長裙 487356",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053345/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053345-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053345",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053345",
+    "category": "skirt",
+    "product_name": "女裝 棉質中長裙 487356",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053345/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053345-KHAKI",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053345",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053345",
+    "category": "skirt",
+    "product_name": "女裝 棉質中長裙 487356",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053345/sku/561/COL33.jpg",
+    "color_label": "KHAKI",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053345-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053345",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053345",
+    "category": "skirt",
+    "product_name": "女裝 棉質中長裙 487356",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053345/sku/561/COL53.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053527-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053527",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053527",
+    "category": "skirt",
+    "product_name": "女裝 寬褲 485593",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053527/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053527-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053527",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053527",
+    "category": "skirt",
+    "product_name": "女裝 寬褲 485593",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053527/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053527-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053527",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053527",
+    "category": "skirt",
+    "product_name": "女裝 寬褲 485593",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053527/sku/561/COL39.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053527-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053527",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053527",
+    "category": "skirt",
+    "product_name": "女裝 寬褲 485593",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053527/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053711-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053711",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053711",
+    "category": "skirt",
+    "product_name": "女裝 亞麻混紡打褶長裙 487365",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053711/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053711-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053711",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053711",
+    "category": "skirt",
+    "product_name": "女裝 亞麻混紡打褶長裙 487365",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053711/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053711-YELLOW",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053711",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053711",
+    "category": "skirt",
+    "product_name": "女裝 亞麻混紡打褶長裙 487365",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053711/sku/561/COL41.jpg",
+    "color_label": "YELLOW",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053711-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053711",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053711",
+    "category": "skirt",
+    "product_name": "女裝 亞麻混紡打褶長裙 487365",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053711/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053642-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053642",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053642",
+    "category": "skirt",
+    "product_name": "女裝 蛋糕裙(印花) 484706",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053642/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053642-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053642",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053642",
+    "category": "skirt",
+    "product_name": "女裝 蛋糕裙(印花) 484706",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053642/sku/561/COL65.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053612-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053612",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053612",
+    "category": "skirt",
+    "product_name": "女裝 緞面長裙 483045",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053612/sku/561/COL32.jpg",
+    "color_label": "BEIGE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053612-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053612",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053612",
+    "category": "skirt",
+    "product_name": "女裝 緞面長裙 483045",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053612/sku/561/COL39.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053612-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053612",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053612",
+    "category": "skirt",
+    "product_name": "女裝 緞面長裙 483045",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053612/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053612-LIGHT PURP",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053612",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053612",
+    "category": "skirt",
+    "product_name": "女裝 緞面長裙 483045",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053612/sku/561/COL70.jpg",
+    "color_label": "LIGHT PURP",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053621-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053621",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053621",
+    "category": "skirt",
+    "product_name": "女裝 3D織法羅紋長裙 483009",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053621/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1490,
+    "current_price": 1490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053621-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053621",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053621",
+    "category": "skirt",
+    "product_name": "女裝 3D織法羅紋長裙 483009",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053621/sku/561/COL59.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 1490,
+    "current_price": 1490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053621-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053621",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053621",
+    "category": "skirt",
+    "product_name": "女裝 3D織法羅紋長裙 483009",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053621/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 1490,
+    "current_price": 1490,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053655-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053655",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053655",
+    "category": "skirt",
+    "product_name": "女裝 亞麻混紡蛋糕裙(無袖) 482788",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053655/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1490,
+    "current_price": 1490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053655-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053655",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053655",
+    "category": "skirt",
+    "product_name": "女裝 亞麻混紡蛋糕裙(無袖) 482788",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053655/sku/561/COL15.jpg",
+    "color_label": "RED",
+    "original_price": 1490,
+    "current_price": 1490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053655-LIGHT BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053655",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053655",
+    "category": "skirt",
+    "product_name": "女裝 亞麻混紡蛋糕裙(無袖) 482788",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053655/sku/561/COL60.jpg",
+    "color_label": "LIGHT BLUE",
+    "original_price": 1490,
+    "current_price": 1490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053524-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053524",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053524",
+    "category": "skirt",
+    "product_name": "女裝 蛋糕裙 482286",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053524/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053524-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053524",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053524",
+    "category": "skirt",
+    "product_name": "女裝 蛋糕裙 482286",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053524/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053524-LIGHT BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053524",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053524",
+    "category": "skirt",
+    "product_name": "女裝 蛋糕裙 482286",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053524/sku/561/COL60.jpg",
+    "color_label": "LIGHT BLUE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053577-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053577",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053577",
+    "category": "skirt",
+    "product_name": "女裝 可機洗米蘭羅紋裙 481733",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053577/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053577-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053577",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053577",
+    "category": "skirt",
+    "product_name": "女裝 可機洗米蘭羅紋裙 481733",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053577/sku/561/COL39.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053577-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053577",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053577",
+    "category": "skirt",
+    "product_name": "女裝 可機洗米蘭羅紋裙 481733",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053577/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  }
+]

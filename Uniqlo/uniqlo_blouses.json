@@ -1,0 +1,1924 @@
+[
+  {
+    "sku_id": "uniqlo-u0000000052204-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052204",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052204",
+    "category": "blouses",
+    "product_name": "女裝 棉質短版襯衫(長袖) 480485",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052204/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052204-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052204",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052204",
+    "category": "blouses",
+    "product_name": "女裝 棉質短版襯衫(長袖) 480485",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052204/sku/561/COL19.jpg",
+    "color_label": "WINE",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052204-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052204",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052204",
+    "category": "blouses",
+    "product_name": "女裝 棉質短版襯衫(長袖) 480485",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052204/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052203-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052203",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052203",
+    "category": "blouses",
+    "product_name": "女裝 棉質條紋短版襯衫(長袖) 479678",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052203/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052203-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052203",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052203",
+    "category": "blouses",
+    "product_name": "女裝 棉質條紋短版襯衫(長袖) 479678",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052203/sku/561/COL63.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050828-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050828",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050828",
+    "category": "blouses",
+    "product_name": "女裝/男女適穿 牛津寬版襯衫(長袖) 479974 475718",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050828/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052786-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052786",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052786",
+    "category": "blouses",
+    "product_name": "女裝 嫘縈上衣(長袖) 479071 482822",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052786/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052786-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052786",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052786",
+    "category": "blouses",
+    "product_name": "女裝 嫘縈上衣(長袖) 479071 482822",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052786/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051573-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051573",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051573",
+    "category": "blouses",
+    "product_name": "女裝 嫘縈條紋上衣(長袖) 479072",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051573/sku/561/COL04.jpg",
+    "color_label": "GRAY",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051573-LIGHT BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051573",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051573",
+    "category": "blouses",
+    "product_name": "女裝 嫘縈條紋上衣(長袖) 479072",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051573/sku/561/COL60.jpg",
+    "color_label": "LIGHT BLUE",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052537-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052537",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052537",
+    "category": "blouses",
+    "product_name": "女裝 棉質襯衫(長袖) 480074",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052537/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 1290,
+    "current_price": 390,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052537-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052537",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052537",
+    "category": "blouses",
+    "product_name": "女裝 棉質襯衫(長袖) 480074",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052537/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1290,
+    "current_price": 390,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052537-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052537",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052537",
+    "category": "blouses",
+    "product_name": "女裝 棉質襯衫(長袖) 480074",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052537/sku/561/COL67.jpg",
+    "color_label": "BLUE",
+    "original_price": 1290,
+    "current_price": 390,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052748-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052748",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052748",
+    "category": "blouses",
+    "product_name": "女裝 棉質寬版襯衫(長袖) 483880",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052748/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052748-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052748",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052748",
+    "category": "blouses",
+    "product_name": "女裝 棉質寬版襯衫(長袖) 483880",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052748/sku/561/COL04.jpg",
+    "color_label": "GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052748-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052748",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052748",
+    "category": "blouses",
+    "product_name": "女裝 棉質寬版襯衫(長袖) 483880",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052748/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052748-LIGHT BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052748",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052748",
+    "category": "blouses",
+    "product_name": "女裝 棉質寬版襯衫(長袖) 483880",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052748/sku/561/COL60.jpg",
+    "color_label": "LIGHT BLUE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052748-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052748",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052748",
+    "category": "blouses",
+    "product_name": "女裝 棉質寬版襯衫(長袖) 483880",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052748/sku/561/COL62.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053154-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053154",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053154",
+    "category": "blouses",
+    "product_name": "女裝 牛津寬版襯衫(長袖) 484928",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053154/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053154-LIGHT GREE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053154",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053154",
+    "category": "blouses",
+    "product_name": "女裝 牛津寬版襯衫(長袖) 484928",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053154/sku/561/COL50.jpg",
+    "color_label": "LIGHT GREE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053154-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053154",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053154",
+    "category": "blouses",
+    "product_name": "女裝 牛津寬版襯衫(長袖) 484928",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053154/sku/561/COL63.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053396-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053396",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053396",
+    "category": "blouses",
+    "product_name": "女裝/男女適穿 牛津條紋寬版襯衫(長袖) 479975",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053396/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053395-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053395",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053395",
+    "category": "blouses",
+    "product_name": "女裝/男女適穿 牛津條紋寬版襯衫(長袖) 483601",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053395/sku/561/COL11.jpg",
+    "color_label": "PINK",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052025-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052025",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052025",
+    "category": "blouses",
+    "product_name": "女裝/男女適穿 法蘭絨寬版襯衫(長袖)(格紋) 479085",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052025/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052025-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052025",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052025",
+    "category": "blouses",
+    "product_name": "女裝/男女適穿 法蘭絨寬版襯衫(長袖)(格紋) 479085",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052025/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050648-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050648",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050648",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 475647",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050648/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050648-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050648",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050648",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 475647",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050648/sku/561/COL15.jpg",
+    "color_label": "RED",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050648-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050648",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050648",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 475647",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050648/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050648-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050648",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050648",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 475647",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050648/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052253-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052253",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052253",
+    "category": "blouses",
+    "product_name": "女裝/男女適穿 牛津條紋寬版襯衫(長袖) 479975",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052253/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052253-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052253",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052253",
+    "category": "blouses",
+    "product_name": "女裝/男女適穿 牛津條紋寬版襯衫(長袖) 479975",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052253/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053180-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053180",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053180",
+    "category": "blouses",
+    "product_name": "女裝 嫘縈上衣(長袖) 479071",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053180/sku/561/COL39.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053180-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053180",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053180",
+    "category": "blouses",
+    "product_name": "女裝 嫘縈上衣(長袖) 479071",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053180/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053146-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053146",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053146",
+    "category": "blouses",
+    "product_name": "女裝 牛津條紋寬版襯衫(長袖) 485265",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053146/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053146-LIGHT BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053146",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053146",
+    "category": "blouses",
+    "product_name": "女裝 牛津條紋寬版襯衫(長袖) 485265",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053146/sku/561/COL60.jpg",
+    "color_label": "LIGHT BLUE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053150-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053150",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053150",
+    "category": "blouses",
+    "product_name": "女裝 牛津格紋寬版襯衫(長袖) 484929",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053150/sku/561/COL12.jpg",
+    "color_label": "PINK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053150-YELLOW",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053150",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053150",
+    "category": "blouses",
+    "product_name": "女裝 牛津格紋寬版襯衫(長袖) 484929",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053150/sku/561/COL43.jpg",
+    "color_label": "YELLOW",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053150-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053150",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053150",
+    "category": "blouses",
+    "product_name": "女裝 牛津格紋寬版襯衫(長袖) 484929",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053150/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052539-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052539",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052539",
+    "category": "blouses",
+    "product_name": "女裝 垂墜風襯衫(長袖) 480075",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052539/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052539-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052539",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052539",
+    "category": "blouses",
+    "product_name": "女裝 垂墜風襯衫(長袖) 480075",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052539/sku/561/COL67.jpg",
+    "color_label": "BLUE",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052272-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052272",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052272",
+    "category": "blouses",
+    "product_name": "女裝/男女適穿 牛津條紋寬版襯衫(長袖) 483601",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052272/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052755-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052755",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052755",
+    "category": "blouses",
+    "product_name": "女裝 嫘縈條紋上衣(長袖) 482823",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052755/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052755-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052755",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052755",
+    "category": "blouses",
+    "product_name": "女裝 嫘縈條紋上衣(長袖) 482823",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052755/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050642-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050642",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050642",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻條紋襯衫(長袖) 475648",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050642/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050642-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050642",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050642",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻條紋襯衫(長袖) 475648",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050642/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL00.jpg",
+    "color_label": "WHITE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL11.jpg",
+    "color_label": "PINK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL12.jpg",
+    "color_label": "PINK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL14.jpg",
+    "color_label": "RED",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL36.jpg",
+    "color_label": "BROWN",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL37.jpg",
+    "color_label": "BROWN",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-YELLOW",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL42.jpg",
+    "color_label": "YELLOW",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL51.jpg",
+    "color_label": "GREEN",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL54.jpg",
+    "color_label": "GREEN",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL61.jpg",
+    "color_label": "BLUE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL65.jpg",
+    "color_label": "BLUE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL68.jpg",
+    "color_label": "BLUE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053440-PURPLE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053440",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053440",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻襯衫(長袖) 483868",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053440/sku/561/COL74.jpg",
+    "color_label": "PURPLE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053433-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053433",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053433",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻條紋襯衫(長袖) 483869",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053433/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053433-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053433",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053433",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻條紋襯衫(長袖) 483869",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053433/sku/561/COL32.jpg",
+    "color_label": "BEIGE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053433-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053433",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053433",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻條紋襯衫(長袖) 483869",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053433/sku/561/COL63.jpg",
+    "color_label": "BLUE",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053427-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053427",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053427",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻條紋襯衫(長袖) 483870",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053427/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053427-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053427",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053427",
+    "category": "blouses",
+    "product_name": "女裝 特級亞麻條紋襯衫(長袖) 483870",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053427/sku/561/COL53.jpg",
+    "color_label": "GREEN",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053454-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053454",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053454",
+    "category": "blouses",
+    "product_name": "女裝 輕型棉質抓皺上衣 484798",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053454/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053454-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053454",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053454",
+    "category": "blouses",
+    "product_name": "女裝 輕型棉質抓皺上衣 484798",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053454/sku/561/COL34.jpg",
+    "color_label": "BROWN",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053454-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053454",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053454",
+    "category": "blouses",
+    "product_name": "女裝 輕型棉質抓皺上衣 484798",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053454/sku/561/COL38.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053454-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053454",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053454",
+    "category": "blouses",
+    "product_name": "女裝 輕型棉質抓皺上衣 484798",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053454/sku/561/COL52.jpg",
+    "color_label": "GREEN",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  }
+]

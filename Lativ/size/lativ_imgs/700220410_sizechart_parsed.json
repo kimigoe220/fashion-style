@@ -1,0 +1,34 @@
+[
+  {
+    "size": "S",
+    "shoulder_cm": 35,
+    "chest_width_cm": 43.5,
+    "sleeve_length_cm": 98,
+    "garment_length_cm": 96,
+    "raw": "S 35 43.5 98 96"
+  },
+  {
+    "size": "M",
+    "shoulder_cm": 36,
+    "chest_width_cm": 45,
+    "sleeve_length_cm": 98,
+    "garment_length_cm": 98,
+    "raw": "M 36 45 98 98"
+  },
+  {
+    "size": "L",
+    "shoulder_cm": 37.5,
+    "chest_width_cm": 46.5,
+    "sleeve_length_cm": 98.5,
+    "garment_length_cm": 60,
+    "raw": "L 37.5 46.5 98.5 60"
+  },
+  {
+    "size": "XL",
+    "shoulder_cm": 39,
+    "chest_width_cm": 48,
+    "sleeve_length_cm": 99,
+    "garment_length_cm": 63,
+    "raw": "XL 39 48 99 63"
+  }
+]

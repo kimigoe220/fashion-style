@@ -1,0 +1,5 @@
+RES Pala oaeaiem BE
+S 32 51 82
+M 34 53 83
+L 36.5 55 84
+XL 39 57 85

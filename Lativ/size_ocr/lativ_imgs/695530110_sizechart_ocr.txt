@@ -1,0 +1,5 @@
+Rik ded the
+S giro 42
+M 33.5 43
+L 36.5 44
+XL 40.5 45

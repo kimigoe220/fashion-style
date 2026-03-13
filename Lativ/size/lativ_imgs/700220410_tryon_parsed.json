@@ -1,0 +1,164 @@
+[
+  {
+    "person_code": "A",
+    "height_cm": 148,
+    "weight_kg": 48,
+    "shoulder_cm": 38,
+    "bust_cm": 80,
+    "recommended_size": "S",
+    "raw": "A 148 48 38 80 S"
+  },
+  {
+    "person_code": "B",
+    "height_cm": 149,
+    "weight_kg": 49,
+    "shoulder_cm": 36,
+    "bust_cm": 80,
+    "recommended_size": "S",
+    "raw": "B 149 49 36 80 S"
+  },
+  {
+    "person_code": "C",
+    "height_cm": 151,
+    "weight_kg": 60,
+    "shoulder_cm": 42,
+    "bust_cm": 95,
+    "recommended_size": "L",
+    "raw": "C 151 60 42 95 L"
+  },
+  {
+    "person_code": "D",
+    "height_cm": 152,
+    "weight_kg": 50,
+    "shoulder_cm": 39,
+    "bust_cm": 86,
+    "recommended_size": "M",
+    "raw": "D 152 50 39 86 M"
+  },
+  {
+    "person_code": "E",
+    "height_cm": 155,
+    "weight_kg": 48,
+    "shoulder_cm": 38,
+    "bust_cm": 79,
+    "recommended_size": "S",
+    "raw": "E 155 48 38 79 S"
+  },
+  {
+    "person_code": "F",
+    "height_cm": 156,
+    "weight_kg": 62,
+    "shoulder_cm": 39,
+    "bust_cm": 90,
+    "recommended_size": "L",
+    "raw": "F 156 62 39 90 L"
+  },
+  {
+    "person_code": "G",
+    "height_cm": 158,
+    "weight_kg": 55,
+    "shoulder_cm": 36,
+    "bust_cm": 86,
+    "recommended_size": "M",
+    "raw": "G 158 55 36 86 M"
+  },
+  {
+    "person_code": "H",
+    "height_cm": 159,
+    "weight_kg": 52,
+    "shoulder_cm": 38,
+    "bust_cm": 82,
+    "recommended_size": "M",
+    "raw": "H 159 52 38 82 M"
+  },
+  {
+    "person_code": null,
+    "height_cm": 159,
+    "weight_kg": 54,
+    "shoulder_cm": 40,
+    "bust_cm": 82,
+    "recommended_size": "M",
+    "raw": "159 54 40 82 M"
+  },
+  {
+    "person_code": "J",
+    "height_cm": 160,
+    "weight_kg": 65,
+    "shoulder_cm": 43,
+    "bust_cm": 101,
+    "recommended_size": "XL",
+    "raw": "J 160 65 43 101 XL"
+  },
+  {
+    "person_code": "K",
+    "height_cm": 161,
+    "weight_kg": 50,
+    "shoulder_cm": 38,
+    "bust_cm": 76,
+    "recommended_size": "S",
+    "raw": "K 161 50 38 76 S"
+  },
+  {
+    "person_code": "L",
+    "height_cm": 162,
+    "weight_kg": 77,
+    "shoulder_cm": 39,
+    "bust_cm": 100,
+    "recommended_size": "XL",
+    "raw": "L 162 77 39 100 XL"
+  },
+  {
+    "person_code": "M",
+    "height_cm": 163,
+    "weight_kg": 48,
+    "shoulder_cm": 37,
+    "bust_cm": 80,
+    "recommended_size": "S",
+    "raw": "M 163 48 37 80 S"
+  },
+  {
+    "person_code": "N",
+    "height_cm": 163,
+    "weight_kg": 61,
+    "shoulder_cm": 42,
+    "bust_cm": 90,
+    "recommended_size": "L",
+    "raw": "N 163 61 42 90 L"
+  },
+  {
+    "person_code": "O",
+    "height_cm": 164,
+    "weight_kg": 59,
+    "shoulder_cm": 39,
+    "bust_cm": 93,
+    "recommended_size": "L",
+    "raw": "O 164 59 39 93 L"
+  },
+  {
+    "person_code": "P",
+    "height_cm": 164,
+    "weight_kg": 69,
+    "shoulder_cm": 44,
+    "bust_cm": 98,
+    "recommended_size": "XL",
+    "raw": "P 164 69 44 98 XL"
+  },
+  {
+    "person_code": "Q",
+    "height_cm": 165,
+    "weight_kg": 61,
+    "shoulder_cm": 40,
+    "bust_cm": 88,
+    "recommended_size": "L",
+    "raw": "Q 165 61 40 88 L"
+  },
+  {
+    "person_code": "R",
+    "height_cm": 170,
+    "weight_kg": 55,
+    "shoulder_cm": 39,
+    "bust_cm": 82,
+    "recommended_size": "M",
+    "raw": "R 170 55 39 82 M"
+  }
+]

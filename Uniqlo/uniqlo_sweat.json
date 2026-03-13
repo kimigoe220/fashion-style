@@ -1,0 +1,2287 @@
+[
+  {
+    "sku_id": "uniqlo-u0000000052999-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052999",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052999",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040 482310",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052999/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052999-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052999",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052999",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040 482310",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052999/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052999-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052999",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052999",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040 482310",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052999/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL11.jpg",
+    "color_label": "PINK",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL36.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL53.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052759-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052759",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052759",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 482308",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052759/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052555-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052555",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052555",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 刷毛半開襟休閒上衣(長袖) 479849",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052555/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052555-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052555",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052555",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 刷毛半開襟休閒上衣(長袖) 479849",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052555/sku/561/COL35.jpg",
+    "color_label": "BROWN",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052555-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052555",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052555",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 刷毛半開襟休閒上衣(長袖) 479849",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052555/sku/561/COL39.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 1290,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL04.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL07.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL19.jpg",
+    "color_label": "WINE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL34.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-YELLOW",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL41.jpg",
+    "color_label": "YELLOW",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL55.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-OLIVE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL57.jpg",
+    "color_label": "OLIVE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053176-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053176",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053176",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053176/sku/561/COL63.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "M",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051947-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051947",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051947",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 479797",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051947/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052359-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052359",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052359",
+    "category": "sweat",
+    "product_name": "女裝 短版休閒上衣(長袖) 479602",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052359/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052359-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052359",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052359",
+    "category": "sweat",
+    "product_name": "女裝 短版休閒上衣(長袖) 479602",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052359/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052359-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052359",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052359",
+    "category": "sweat",
+    "product_name": "女裝 短版休閒上衣(長袖) 479602",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052359/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052359-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052359",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052359",
+    "category": "sweat",
+    "product_name": "女裝 短版休閒上衣(長袖) 479602",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052359/sku/561/COL16.jpg",
+    "color_label": "RED",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052359-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052359",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052359",
+    "category": "sweat",
+    "product_name": "女裝 短版休閒上衣(長袖) 479602",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052359/sku/561/COL39.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052359-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052359",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052359",
+    "category": "sweat",
+    "product_name": "女裝 短版休閒上衣(長袖) 479602",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052359/sku/561/COL55.jpg",
+    "color_label": "GREEN",
+    "original_price": 790,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL06.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052558-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052558",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052558",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052558/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052892-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052892",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052892",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052892/sku/561/COL05.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052892-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052892",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052892",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052892/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052892-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052892",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052892",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052892/sku/561/COL51.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053220-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053220",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053220",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053220/sku/561/COL18.jpg",
+    "color_label": "WINE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000053220-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053220",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053220",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053220/sku/561/COL34.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053220-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053220",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053220",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒上衣(長袖) 481040",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053220/sku/561/COL58.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050307-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050307",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050307",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050307/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050307-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050307",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050307",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050307/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050307-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050307",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050307",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 475377",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050307/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053187-WINE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053187",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053187",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053187/sku/561/COL19.jpg",
+    "color_label": "WINE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000053187-YELLOW",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053187",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053187",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053187/sku/561/COL41.jpg",
+    "color_label": "YELLOW",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053187-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053187",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053187",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053187/sku/561/COL55.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "L"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053187-BLUE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053187",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053187",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 休閒上衣(長袖) 484337",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053187/sku/561/COL63.jpg",
+    "color_label": "BLUE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052848-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052848",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052848",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒連帽上衣(長袖) 479853 / 479945 / 475379 482309",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052848/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052848-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052848",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052848",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒連帽上衣(長袖) 479853 / 479945 / 475379 482309",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052848/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052848-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052848",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052848",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒連帽上衣(長袖) 479853 / 479945 / 475379 482309",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052848/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052992-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052992",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052992",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒連帽外套(長袖) 485735",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052992/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052992-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052992",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052992",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒連帽外套(長袖) 485735",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052992/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052992-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052992",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052992",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒連帽外套(長袖) 485735",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052992/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052992-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052992",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052992",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒連帽外套(長袖) 485735",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052992/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050306-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050306",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050306",
+    "category": "sweat",
+    "product_name": "男女適穿 休閒連帽上衣(長袖) 475378",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050306/sku/561/COL05.jpg",
+    "color_label": "GRAY",
+    "original_price": 1290,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050306-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050306",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050306",
+    "category": "sweat",
+    "product_name": "男女適穿 休閒連帽上衣(長袖) 475378",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050306/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 1290,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050306-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050306",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050306",
+    "category": "sweat",
+    "product_name": "男女適穿 休閒連帽上衣(長袖) 475378",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050306/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1290,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050306-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050306",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050306",
+    "category": "sweat",
+    "product_name": "男女適穿 休閒連帽上衣(長袖) 475378",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050306/sku/561/COL31.jpg",
+    "color_label": "BEIGE",
+    "original_price": 1290,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052005-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052005",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052005",
+    "category": "sweat",
+    "product_name": "女裝 DRY休閒連帽外套(長袖) 479603",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052005/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052005-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052005",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052005",
+    "category": "sweat",
+    "product_name": "女裝 DRY休閒連帽外套(長袖) 479603",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052005/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052005-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052005",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052005",
+    "category": "sweat",
+    "product_name": "女裝 DRY休閒連帽外套(長袖) 479603",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052005/sku/561/COL36.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052005-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052005",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052005",
+    "category": "sweat",
+    "product_name": "女裝 DRY休閒連帽外套(長袖) 479603",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052005/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000020399-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000020399",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000020399",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒連帽上衣 471808",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000020399/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000020399-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000020399",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000020399",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 寬版休閒連帽上衣 471808",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000020399/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 1290,
+    "current_price": 1290,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052617-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052617",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052617",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 Yu Nagaba印花休閒上衣(長袖) 484906",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052617/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000051733-LIGHT GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000051733",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051733",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 Pokémon 印花休閒上衣(長袖) 479779",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000051733/sku/561/COL02.jpg",
+    "color_label": "LIGHT GRAY",
+    "original_price": 990,
+    "current_price": 390,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052791-DARK GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052791",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052791",
+    "category": "sweat",
+    "product_name": "女裝 miffy 印花休閒上衣(長袖) 485662",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052791/sku/561/COL08.jpg",
+    "color_label": "DARK GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052789-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052789",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052789",
+    "category": "sweat",
+    "product_name": "女裝 miffy 印花休閒上衣(長袖) 485661",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052789/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052606-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052606",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052606",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 Yu Nagaba印花休閒上衣(長袖) 482744",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052606/sku/561/COL59.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052725-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052725",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052725",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 ZOOTOPIA 印花休閒上衣(長袖) 484357",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052725/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "L",
+      "XL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052796-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052796",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052796",
+    "category": "sweat",
+    "product_name": "女裝 miffy 印花休閒上衣(長袖) 483277",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052796/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052694-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052694",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052694",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 PEANUTS 印花休閒上衣(長袖) 482743",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052694/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052615-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052615",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052615",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 Yu Nagaba印花休閒上衣(長袖) 484907",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052615/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052692-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052692",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052692",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 PEANUTS 印花休閒上衣(長袖) 485026",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052692/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052995-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052995",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052995",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 PEANUTS 印花休閒上衣(長袖) 485041",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052995/sku/561/COL16.jpg",
+    "color_label": "RED",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052133-OFF WHITE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052133",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052133",
+    "category": "sweat",
+    "product_name": "男裝/男女適穿 PEANUTS 印花休閒上衣(長袖) 481055",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052133/sku/561/COL01.jpg",
+    "color_label": "OFF WHITE",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "available_list": [
+      "XXL"
+    ]
+  }
+]

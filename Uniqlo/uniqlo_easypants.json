@@ -1,0 +1,659 @@
+[
+  {
+    "sku_id": "uniqlo-u0000000052993-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052993",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052993",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲 483285",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052993/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052993-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052993",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052993",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲 483285",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052993/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052993-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052993",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052993",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲 483285",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052993/sku/561/COL17.jpg",
+    "color_label": "RED",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052993-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052993",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052993",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲 483285",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052993/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052993-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052993",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052993",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲 483285",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052993/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052987-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052987",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052987",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲(稍長) 484854",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052987/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052987-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052987",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052987",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲(稍長) 484854",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052987/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052987-RED",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052987",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052987",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲(稍長) 484854",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052987/sku/561/COL17.jpg",
+    "color_label": "RED",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052987-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052987",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052987",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲(稍長) 484854",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052987/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052987-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052987",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052987",
+    "category": "easypants",
+    "product_name": "女裝 休閒直筒長褲(稍長) 484854",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052987/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 990,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050611-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050611",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050611",
+    "category": "easypants",
+    "product_name": "女裝 休閒寬褲 479620 476108",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050611/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000050611-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000050611",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050611",
+    "category": "easypants",
+    "product_name": "女裝 休閒寬褲 479620 476108",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000050611/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 590,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052001-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052001",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052001",
+    "category": "easypants",
+    "product_name": "女裝 DRY休閒繭型長褲 479619",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052001/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052001-NATURAL",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052001",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052001",
+    "category": "easypants",
+    "product_name": "女裝 DRY休閒繭型長褲 479619",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052001/sku/561/COL30.jpg",
+    "color_label": "NATURAL",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": [
+      "3XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000052001-BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052001",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052001",
+    "category": "easypants",
+    "product_name": "女裝 DRY休閒繭型長褲 479619",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052001/sku/561/COL36.jpg",
+    "color_label": "BROWN",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052001-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052001",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052001",
+    "category": "easypants",
+    "product_name": "女裝 DRY休閒繭型長褲 479619",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052001/sku/561/COL58.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052001-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052001",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052001",
+    "category": "easypants",
+    "product_name": "女裝 DRY休閒繭型長褲 479619",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052001/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 990,
+    "current_price": 790,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052280-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052280",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052280",
+    "category": "easypants",
+    "product_name": "女裝 休閒側線長褲 479911",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052280/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052280-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052280",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052280",
+    "category": "easypants",
+    "product_name": "女裝 休閒側線長褲 479911",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052280/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": []
+  },
+  {
+    "sku_id": "uniqlo-u0000000052280-GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000052280",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052280",
+    "category": "easypants",
+    "product_name": "女裝 休閒側線長褲 479911",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000052280/sku/561/COL55.jpg",
+    "color_label": "GREEN",
+    "original_price": 990,
+    "current_price": 590,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053573-GRAY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053573",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053573",
+    "category": "easypants",
+    "product_name": "女裝 休閒寬褲 483282",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053573/sku/561/COL03.jpg",
+    "color_label": "GRAY",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053573-BLACK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053573",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053573",
+    "category": "easypants",
+    "product_name": "女裝 休閒寬褲 483282",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053573/sku/561/COL09.jpg",
+    "color_label": "BLACK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053573-PINK",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053573",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053573",
+    "category": "easypants",
+    "product_name": "女裝 休閒寬褲 483282",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053573/sku/561/COL10.jpg",
+    "color_label": "PINK",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053573-DARK GREEN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053573",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053573",
+    "category": "easypants",
+    "product_name": "女裝 休閒寬褲 483282",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053573/sku/561/COL59.jpg",
+    "color_label": "DARK GREEN",
+    "original_price": 790,
+    "current_price": 790,
+    "full_size_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_list": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053603-BEIGE",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053603",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053603",
+    "category": "easypants",
+    "product_name": "女裝 休閒寬褲 483041",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053603/sku/561/COL32.jpg",
+    "color_label": "BEIGE",
+    "original_price": 1490,
+    "current_price": 1490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053603-DARK BROWN",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053603",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053603",
+    "category": "easypants",
+    "product_name": "女裝 休閒寬褲 483041",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053603/sku/561/COL39.jpg",
+    "color_label": "DARK BROWN",
+    "original_price": 1490,
+    "current_price": 1490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "sku_id": "uniqlo-u0000000053603-NAVY",
+    "brand": "UNIQLO",
+    "parent_id": "u0000000053603",
+    "sku_url": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053603",
+    "category": "easypants",
+    "product_name": "女裝 休閒寬褲 483041",
+    "img_path": "https://www.uniqlo.com/tw/hmall/test/u0000000053603/sku/561/COL69.jpg",
+    "color_label": "NAVY",
+    "original_price": 1490,
+    "current_price": 1490,
+    "full_size_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "available_list": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  }
+]
